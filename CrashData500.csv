@@ -1,0 +1,501 @@
+X,Y,OBJECTID,ACC_ID,ROAD_NO,ROAD_NAME,COMMON_ROAD_NAME,CWAY,SLK,INTERSECTION_NO,INTERSECTION_DESC,LONGITUDE,LATITUDE,CRASH_DATE,CRASH_TIME,SEVERITY,EVENT_NATURE,EVENT_TYPE,TOTAL_BIKE_INVOLVED,TOTAL_TRUCK_INVOLVED,TOTAL_HEAVY_TRUCK_INVOLVED,TOTAL_MOTOR_CYCLE_INVOLVED,TOTAL_OTHER_VEHICLES_INVOLVED,TOTAL_PEDESTRIANS_INVOLVED
+115.869611,-31.938499,25054482,9797493,1300277,Beaufort St,Beaufort St,S,1.15,50626,Mary St & Beaufort St,115.869611,-31.938499,28/5/18,815,Medical,Right Angle,,0,0,0,0,2,0
+115.753147,-32.073989,25078268,10026671,1180019,Douro Rd,Douro Rd,S,0.09,67890,South Tce & Douro Rd,115.753147,-32.073989,23/5/19,30,PDO Minor,Hit Object,,0,0,0,0,1,0
+115.896142,-31.985246,25016013,9513698,1290077,Kent St,Kent St,S,0.63,51029,Kent St & Berwick St,115.896142,-31.985246,20/3/17,1845,Hospital,Right Turn Thru,,0,0,0,0,2,0
+115.701672,-31.64835,25080273,10060020,1104716,Kingsbridge Bvd,Kingsbridge Bvd,S,0.5,127232,Kingsbridge Bvd & Shelford Bvd & Camborne Pwy,115.701672,-31.64835,11/7/19,2040,PDO Minor,Right Angle,,0,0,0,0,1,0
+115.760826,-31.819435,25018832,9550824,H029,Marmion Av,Marmion Av,L,6.42,60427,Marmion Av & Gilbert Rd,115.760826,-31.819435,29/6/17,807,Hospital,Right Angle,,0,0,0,0,2,0
+115.762437,-31.876214,25037655,9675485,H036,West Coast Hwy,West Coast Hwy,L,20.03,55932,West Coast Hwy & Elliott Rd,115.762437,-31.876214,6/12/17,1420,PDO Major,Right Angle,,0,0,0,0,2,0
+115.872378,-31.957321,25065381,9907272,1240130,Bennett St,Bennett St,S,0.46,51276,Goderich St & Bennett St,115.872378,-31.957321,15/11/18,915,PDO Major,Right Angle,,0,0,0,0,2,0
+115.767555,-31.752378,25002048,9364357,1311665,Joondalup Dr,Joondalup Dr,L,3.05,63196,Joondalup Dr & Hodges Dr & Grand Bvd,115.767555,-31.752378,22/6/16,1400,PDO Major,Rear End,,0,0,0,0,2,0
+115.93329,-31.937188,25087308,10085023,H005,Great Eastern Hwy,Great Eastern Hwy,L,5.59,14291,Great Eastern Hwy & Epsom Av,115.93329,-31.937188,25/8/19,815,PDO Minor,Rear End,,0,0,0,0,2,0
+115.835878,-32.087607,25020706,9523507,1030563,Bibra Dr,Bibra Dr,S,0.94,42404,Parkway Rd & Bibra Dr,115.835878,-32.087607,26/3/17,605,PDO Major,Hit Object,,0,0,0,0,1,0
+115.995304,-32.078033,25023203,9588412,1040010,Dorothy St,Dorothy St,S,0.68,43844,Dorothy St & Eudoria St,115.995304,-32.078033,21/6/17,740,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.735824,-32.279446,25022450,9526796,1070005,Read St,Read St,L,0.16,69777,Read St & Commodore Dr,115.735824,-32.279446,13/3/17,1300,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.819467,-31.914071,25032024,9616029,1250061,Harborne St,Harborne St,L,0.0,55331,Harborne St & Frobisher St & Scarborough Beach Rd,115.819467,-31.914071,13/7/17,1630,PDO Major,Right Angle,,0,0,0,0,2,0
+115.891531,-31.917042,25082315,10025797,1120002,Beaufort St,Beaufort St,L,0.07,37733,Beaufort St & Salisbury St,115.891531,-31.917042,22/5/19,1800,PDO Major,Non Collision,,0,0,0,1,1,0
+115.71463,-31.666915,25058287,9843237,1103226,Cam Ct,Cam Ct,S,0.0,70601,Cam Ct & Coldstream Cct,115.71463,-31.666915,12/8/18,1140,Medical,Right Turn Thru,,0,0,0,0,1,0
+115.98671,-31.863683,25108879,10185364,H021,Reid Hwy,Reid Hwy,L,21.23,77668,Reid Hwy & West Swan Rd,115.98671,-31.863683,30/1/20,1345,PDO Major,Rear End,,0,0,0,0,2,0
+115.873238,-31.94791,25050829,9809474,1300250,Edward St,Edward St,S,0.0,51435,Edward St & Claisebrook Rd & Somerville St,115.873238,-31.94791,7/6/18,920,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.804121,-31.933422,24982360,10143960,1280306,Selby St,Selby St,S,1.6,50806,Herdsman Pde & Selby St,115.804121,-31.933422,16/11/19,1635,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.600328,-31.508317,25116531,10240780,1105756,Abrolhos Cl,Abrolhos Cl,S,0.17,165622,Abrolhos Cl & Elford L,115.600328,-31.508317,25/5/20,1200,PDO Major,Right Angle,Involving Parking,0,1,0,0,1,0
+115.688699,-31.619194,24987552,9257243,1100002,Marmion Av,Marmion Av,L,11.12,208823,Marmion Av & Graceful Bvd,115.688699,-31.619194,24/2/16,1820,Medical,Rear End,,0,0,0,0,3,0
+115.866233,-31.955849,25107045,10170737,1240113,Victoria Sq,Victoria Sq,S,0.12,51268,Victoria Sq & Victoria Av,115.866233,-31.955849,1/1/20,1535,PDO Major,Right Angle,,0,0,0,0,2,0
+115.761863,-32.325759,24996740,9352459,1070003,Safety Bay Rd,Safety Bay Rd,L,8.74,52704,Safety Bay Rd & The Avenue,115.761863,-32.325759,30/6/16,1450,Medical,Right Angle,,0,0,0,0,1,0
+115.872152,-32.042658,24990124,9253047,H012,Leach Hwy,Leach Hwy,L,10.47,3512,Leach Hwy & Karel Av,115.872152,-32.042658,12/2/16,1458,Medical,Sideswipe Same Dirn,,0,0,0,0,3,0
+115.962473,-31.795593,25098553,10324149,1090549,Gnangara Rd,Gnangara Rd,L,3.56,59366,Gnangara Rd & Starflower Rd & Pinaster Pde,115.962473,-31.795593,13/11/16,930,Hospital,Right Angle,,1,0,0,0,1,0
+115.705803,-31.661931,25051733,9821349,1100002,Marmion Av,Marmion Av,L,5.92,76193,Marmion Av & Pitcairn Ent,115.705803,-31.661931,29/6/18,1140,PDO Minor,Rear End,,0,0,0,0,2,0
+115.912986,-31.993822,25065972,9908523,H001,Albany Hwy,Albany Hwy,S,4.9,4122,Albany Hwy & Welshpool Rd & Albany Hwy,115.912986,-31.993822,19/11/18,2215,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+117.86071,-35.022106,25080949,10033092,H040,Albany Port Rd,Princess Royal Dr,S,2.18,359,Albany Port Rd & Frenchman Bay Rd,117.86071,-35.022106,15/5/19,1150,PDO Major,Hit Object,,0,0,0,0,1,0
+115.732537,-32.531799,25041807,9723717,2120137,Anstruther Rd,Anstruther Rd,S,1.39,34702,Anstruther Rd & Elizabeth St,115.732537,-32.531799,25/1/18,1240,PDO Major,Rear End,,0,0,0,0,1,0
+115.828724,-31.914448,25118200,10273944,1300288,Scarborough Beach Rd,Scarborough Beach Rd,L,2.72,50851,Scarborough Beach Rd & Green St,115.828724,-31.914448,20/7/20,1840,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.997043,-32.008137,25107113,10181205,H017,Tonkin Hwy,Tonkin Hwy,L,56.02,4547,Tonkin Hwy & Rivervale Wattle Grove Link & Welshpool Rd East,115.997043,-32.008137,20/1/20,820,PDO Minor,Rear End,,0,0,0,0,2,0
+115.98671,-31.863683,25101721,10135485,H021,Reid Hwy,Reid Hwy,L,21.23,77668,Reid Hwy & West Swan Rd,115.98671,-31.863683,15/11/19,1219,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.805718,-32.105025,25043601,9736821,1030007,Spearwood Av,Spearwood Av,L,4.02,41433,Spearwood Av & Sudlow Rd,115.805718,-32.105025,6/2/18,1330,PDO Major,Right Angle,,0,1,0,0,1,0
+117.883524,-35.023892,25088170,10210088,3021001,York St,York St,L,0.32,19070,York St & Grey St,117.883524,-35.023892,15/3/20,1920,PDO Minor,Rear End,,0,0,0,0,2,0
+121.463336,-30.747539,25044168,9737827,6052004,Wittenoom St,Wittenoom St,S,0.85,73789,Wittenoom St & Chapple St,121.463336,-30.747539,10/2/18,100,PDO Major,Rear End,,0,0,0,0,1,0
+115.856176,-32.046611,25096242,10358181,H012,Leach Hwy,Leach Hwy,L,8.78,4449,Leach Hwy & Kwinana Fwy (Southbound) off to Leach Hwy & Bullcreek Station Bus Access,115.856176,-32.046611,7/11/20,1455,PDO Major,Right Angle,,0,0,0,0,2,0
+115.766008,-32.059866,25006138,9429441,1180087,Montreal St,Montreal St,S,0.18,43439,Montreal St & Watkins St,115.766008,-32.059866,18/9/16,1730,PDO Major,Right Angle,,0,0,0,0,2,0
+115.878696,-31.863803,25028416,9627608,1090698,Alexander Dr,Alexander Dr,S,0.47,59511,Truganina Rd & Alexander Dr & Alexander Dr,115.878696,-31.863803,1/8/17,1100,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.858562,-31.935601,25035294,9661042,1300280,Fitzgerald St,Fitzgerald St,S,0.94,50725,Chelmsford Rd & Fitzgerald St,115.858562,-31.935601,16/10/17,1610,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.777154,-31.98041,25039960,9670972,1150002,Stirling Rd,Stirling Rd,S,0.44,41179,Stirling Rd & Shenton Rd,115.777154,-31.98041,1/11/17,1605,PDO Major,Rear End,,0,0,0,0,2,0
+115.832945,-31.947131,24987051,9266149,1270001,Hay St,Hay St,S,0.41,58617,Hay St & Coghlan Rd,115.832945,-31.947131,12/2/16,1730,PDO Major,Right Angle,,0,0,0,0,2,0
+115.924831,-31.875531,25026205,9565838,1120005,Beechboro Rd North,Beechboro Rd North,L,2.54,37801,Beechboro Rd North & Benara Rd,115.924831,-31.875531,3/4/17,830,PDO Major,Rear End,,0,0,0,0,2,0
+115.848476,-32.027013,25079602,10049213,1190018,Reynolds Rd,Reynolds Rd,S,1.05,47219,Reynolds Rd & Central Av,115.848476,-32.027013,25/6/19,2000,Medical,Right Angle,,0,0,0,0,2,0
+115.834692,-31.877343,24999169,9330391,1250130,Ravenswood Dr,Ravenswood Dr,S,2.26,56073,Ravenswood Dr & Berkeley Ct,115.834692,-31.877343,16/5/16,1605,PDO Major,Right Angle,,0,0,0,0,1,0
+115.659837,-32.583861,25080113,10040784,M074,Lakelands Lake Clifton,Old Coast Rd,L,18.68,4083,Lakelands Lake Clifton & Mercedes Av & Coco Dr,115.659837,-32.583861,12/6/19,1100,PDO Major,Rear End,,0,0,0,0,2,0
+115.904674,-32.125514,24997150,9335384,1010082,Warton Rd,Warton Rd,L,1.41,70820,Warton Rd & Mason Rd & Jandakot Rd & Warton Rd,115.904674,-32.125514,18/5/16,1835,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,1,0
+115.783452,-31.774888,25070225,9948595,1311288,Ocean Reef Rd,Ocean Reef Rd,L,1.26,62676,Ocean Reef Rd & Joondalup Dr,115.783452,-31.774888,24/1/19,1135,PDO Major,Rear End,,0,0,0,0,2,0
+115.864434,-32.126921,25024699,9590349,H023,Armadale Rd,Armadale Rd,L,15.41,14132,Armadale Rd & Solomon Rd,115.864434,-32.126921,27/6/17,1040,PDO Minor,Right Angle,,0,1,0,0,1,0
+115.893434,-32.038743,25057512,9851512,1140061,Vahland Av,Vahland Av,L,3.34,39811,Vahland Av & High Rd,115.893434,-32.038743,21/9/18,1130,PDO Major,Rear End,,0,0,0,0,1,0
+115.658612,-33.344573,25102646,10108127,2040092,Picton Rd,Picton Rd,L,0.62,65568,Picton Rd & Petherick St,115.658612,-33.344573,27/9/19,1450,PDO Major,Rear End,,0,0,0,0,2,0
+114.621983,-28.743042,25013710,9509313,5050008,Chapman Rd,Chapman Rd,S,3.81,21799,Chapman Rd & Smith St,114.621983,-28.743042,21/2/17,1510,PDO Minor,Non Collision,,0,0,0,1,0,0
+115.861723,-32.001081,25094358,10344009,H013,Canning Hwy,Canning Hwy,S,4.47,14124,Canning Hwy & Saunders St,115.861723,-32.001081,12/10/20,855,PDO Major,Right Angle,,0,0,0,0,2,0
+115.776101,-32.038315,24982315,10235669,H013,Canning Hwy,Canning Hwy,S,13.98,13873,Canning Hwy & Petra St & Petra St,115.776101,-32.038315,11/5/20,1955,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.87425,-32.04118,25027241,9587309,H012,Leach Hwy,Leach Hwy,L,10.73,16607,Leach Hwy & Fifth Av,115.87425,-32.04118,21/6/17,1105,PDO Major,Right Angle,,0,0,0,0,2,0
+115.898804,-31.900044,25047108,9782241,1120026,Russell St,Russell St,S,1.21,38033,Rudloc Rd & Russell St,115.898804,-31.900044,30/5/18,1318,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.842468,-32.079681,25064237,9865393,1030501,Farrington Rd,Farrington Rd,L,2.75,42338,Farrington Rd & Allendale Ent,115.842468,-32.079681,7/9/18,1030,PDO Major,Rear End,,0,0,0,0,2,0
+115.896287,-31.867043,25034237,9639512,H293,Malaga Dr on to Reid Hwy (Eastbound),Malaga Dr on to Reid Hwy (Eastbound),S,0.0,223565,Malaga Dr on to Reid Hwy (Eastbound) & Reid Hwy (Eastbound) off to Malaga Dr & Malaga Dr,115.896287,-31.867043,21/8/17,750,PDO Major,Rear End,,0,0,0,0,2,0
+115.904991,-31.875499,25010067,9448825,1120014,Benara Rd,Benara Rd,L,1.51,37912,Benara Rd & Crimea St,115.904991,-31.875499,10/11/16,2115,PDO Minor,Right Turn Thru,,0,0,0,0,2,0
+121.46879,-30.750848,25053191,9784469,H005,Great Eastern Hwy,Hannan St,S,591.54,10391,Great Eastern Hwy & Lane St,121.46879,-30.750848,6/5/18,1355,PDO Major,Right Angle,,0,0,0,0,2,0
+115.77772,-31.983392,25006928,9421959,1150002,Stirling Rd,Stirling Rd,S,0.1,41175,Stirling Rd & St Quentin Av,115.77772,-31.983392,15/9/16,1325,PDO Minor,Right Turn Thru,,0,0,0,0,2,0
+115.96958,-32.207025,25105909,10165993,H017,Tonkin Hwy,Tonkin Hwy,L,81.25,138650,Tonkin Hwy & Thomas Rd & Thomas Rd,115.96958,-32.207025,5/2/20,950,PDO Minor,Rear End,Involving Overtaking,0,0,0,1,1,0
+115.836765,-32.024001,25026165,9556620,1190002,Riseley St,Riseley St,L,0.66,47009,Riseley St & Drew Rd,115.836765,-32.024001,15/5/17,1545,Medical,Right Angle,,0,0,0,0,2,0
+115.690525,-32.560477,25071045,9979401,2120741,Oakleigh Dr,Oakleigh Dr,S,0.16,35562,Oakleigh Dr & Wattleglen Av,115.690525,-32.560477,16/3/19,1015,Medical,Right Angle,,1,0,0,0,1,0
+115.803536,-31.752258,25023436,9579933,H035,Wanneroo Rd,Wanneroo Rd,L,21.77,13985,Wanneroo Rd & Hastings St & Conlan Av,115.803536,-31.752258,4/6/17,1541,Medical,Hit Pedestrian,Involving Pedestrian,0,0,0,0,1,1
+115.865217,-31.919826,25040954,9691926,1250059,Alexander Dr,Alexander Dr,L,0.71,55294,Alexander Dr & Bradford St,115.865217,-31.919826,22/11/17,1405,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.757169,-31.926865,24996028,9333464,H036,West Coast Hwy,West Coast Hwy,L,13.93,51156,West Coast Hwy & The Boulevard,115.757169,-31.926865,27/5/16,630,PDO Major,Rear End,,0,0,0,0,2,0
+115.762221,-31.732569,25077202,9993539,1312534,Moore Dr,Moore Dr,S,2.47,64031,Moore Dr & Candlewood Bvd,115.762221,-31.732569,5/4/19,700,Medical,Right Angle,,1,0,0,0,0,0
+115.931494,-32.049241,25118468,10265049,1040002,Nicholson Rd,Nicholson Rd,S,2.97,41080,Nicholson Rd & High Rd & Nicholson Rd,115.931494,-32.049241,7/7/20,1350,PDO Minor,Rear End,,0,0,0,0,2,0
+115.830834,-31.871279,24984803,9234103,H035,Wanneroo Rd,Wanneroo Rd,L,8.18,55056,Wanneroo Rd & Arkana Rd,115.830834,-31.871279,17/1/16,830,Medical,Right Angle,,0,0,0,0,2,0
+115.371472,-33.666316,25006029,9420208,M008,Vasse,Vasse Hwy,S,0.7,114646,Vasse & Blum Bvd,115.371472,-33.666316,16/9/16,1535,PDO Major,Rear End,,0,0,0,0,1,0
+115.95435,-32.022996,25086548,10093601,1040001,William St,William St,S,0.7,43704,William St & Sevenoaks St,115.95435,-32.022996,12/10/19,900,PDO Major,Right Angle,,0,0,0,0,2,0
+116.001206,-32.033957,25003379,9376696,1040077,Kelvin Rd,Kelvin Rd,L,2.54,44220,Kelvin Rd & Bickley Rd,116.001206,-32.033957,24/8/16,530,PDO Minor,Rear End,,0,0,0,0,3,0
+116.593719,-32.776429,25075402,10019026,H001,Albany Hwy,Albany Hwy,S,118.32,14649,Albany Hwy & Crossman - Dwarda Rd,116.593719,-32.776429,3/4/19,1900,PDO Minor,Right Angle,,0,1,0,0,1,0
+115.79045,-31.981476,25007305,9394470,H014,Stirling Hwy,Stirling Hwy,S,7.2,13930,Stirling Hwy & Bay Rd,115.79045,-31.981476,22/8/16,920,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.892951,-32.072045,25097720,10331582,1140459,Bannister Rd,Bannister Rd,L,0.54,71710,Bannister Rd & South St & Ranford Rd,115.892951,-32.072045,31/10/20,1415,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.942596,-31.907695,24990074,9242618,H026,Guildford Rd,Guildford Rd,S,8.24,4161,Guildford Rd & Collier Rd,115.942596,-31.907695,22/1/16,1700,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,1,0
+115.754549,-31.779763,24982078,10233768,H029,Marmion Av,Marmion Av,L,11.08,60442,Marmion Av & Mullaloo Dr,115.754549,-31.779763,14/5/20,850,Medical,Rear End,,0,0,0,0,2,0
+116.828509,-31.306945,24984247,10281269,4080061,Eaton St,Eaton St,S,0.0,28334,Eaton St & Lockyer St,116.828509,-31.306945,3/8/20,1525,PDO Major,Rear End,,0,0,0,0,2,0
+115.814776,-32.068705,25071743,9952263,H032,South St,South St,L,4.93,47047,South St & North Lake Rd,115.814776,-32.068705,30/1/19,1220,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.79634,-31.740589,24986235,9273871,H035,Wanneroo Rd,Wanneroo Rd,L,23.24,182711,Wanneroo Rd & Pinjar Rd,115.79634,-31.740589,20/3/16,1330,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.811697,-31.930706,25108478,10160708,1280234,Herdsman Pde,Herdsman Pde,S,0.78,51224,Jersey St & Herdsman Pde,115.811697,-31.930706,16/12/19,200,PDO Major,Hit Object,,0,0,0,0,1,0
+115.717163,-31.673335,25058940,9854269,1103098,Hester Av,Hester Av,L,0.61,70579,Hester Av & Baltimore Pde,115.717163,-31.673335,23/8/18,1030,PDO Major,Right Angle,,0,0,0,0,2,0
+117.355935,-34.959431,25039067,9707454,H009,South Western Hwy,South Coast Hwy,S,464.11,67808,South Western Hwy & Hollings Rd,117.355935,-34.959431,7/2/18,1530,Hospital,Right Turn Thru,,0,0,0,1,1,0
+116.049116,-32.007695,25082023,10025185,1020008,Lesmurdie Rd,Lesmurdie Rd,S,2.91,45386,Lesmurdie Rd & Godwin St,116.049116,-32.007695,22/5/19,1025,PDO Major,Right Angle,,0,0,0,0,1,0
+115.785831,-32.189575,25024333,9582034,H002,Melville Mandurah Hwy,Rockingham Rd,L,16.4,13924,Melville Mandurah Hwy & Hope Valley Rd,115.785831,-32.189575,12/6/17,1040,PDO Minor,Right Angle,,0,1,0,0,1,0
+115.765605,-31.733928,25034484,9669136,1311665,Joondalup Dr,Joondalup Dr,L,5.26,63199,Joondalup Dr & Moore Dr & Grand Bvd,115.765605,-31.733928,30/10/17,1445,Medical,Rear End,,0,0,0,0,2,0
+115.917819,-32.088901,25100912,10328644,1040002,Nicholson Rd,Nicholson Rd,S,8.34,43737,Nicholson Rd & Ranford Rd & Nicholson Rd & Ranford Rd,115.917819,-32.088901,17/7/18,830,Hospital,Rear End,,0,0,0,0,1,0
+115.792983,-31.838167,25070029,9958185,H587,Warwick Rd on to Mitchell Fwy (Northbound),Warwick Rd on to Mitchell Fwy (Northbound),S,0.0,13933,Warwick Rd on to Mitchell Fwy (Northbound) & Mitchell Fwy (Northbound) off to Warwick Rd & Warwick Rd,115.792983,-31.838167,16/2/19,720,PDO Major,Right Angle,,0,0,0,0,2,0
+116.027069,-31.867811,25036153,9663013,H018,Roe Hwy,Roe Hwy,L,43.25,14898,Roe Hwy & Toodyay Rd & Toodyay Rd,116.027069,-31.867811,7/10/17,930,PDO Major,Rear End,,0,0,0,0,2,0
+115.617343,-33.405961,25105690,10188322,2060331,Dalyellup Bvd,Dalyellup Bvd,S,2.06,159161,Dalyellup Bvd & Hornibrook Rd,115.617343,-33.405961,6/2/20,1800,Medical,Right Angle,,0,0,0,0,1,0
+115.852471,-31.955127,25020475,9533781,1240103,Mounts Bay Rd,Mounts Bay Rd,S,1.06,75445,Mounts Bay Rd & Mill St & Conv Ctr Access / Car Park,115.852471,-31.955127,30/3/17,1730,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,1,0,0
+115.88121,-31.996273,25109438,10176497,1260038,Thelma St,Thelma St,S,0.1,54685,Thelma St & Blamey Pl,115.88121,-31.996273,17/1/20,1345,Medical,Rear End,,0,0,0,0,2,0
+115.852491,-31.927401,25009621,9467751,H035,Wanneroo Rd,Charles St,S,1.64,50673,Wanneroo Rd & Angove St & Scarborough Beach Rd,115.852491,-31.927401,13/12/16,1815,PDO Minor,,,0,0,0,1,1,0
+115.949037,-32.013862,25024684,9590227,1140170,Gerard St,Gerard St,S,1.83,39680,Renou St & Gerard St,115.949037,-32.013862,26/6/17,1335,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,1,0
+115.928512,-32.03347,25010837,9469374,1140267,Metcalfe Rd,Metcalfe Rd,S,0.94,40276,Metcalfe Rd & Ferndale Cr,115.928512,-32.03347,21/12/16,2105,PDO Major,Right Angle,,0,0,0,0,1,0
+115.977573,-32.048562,25020688,9523373,H001,Albany Hwy,Albany Hwy,S,13.95,14753,Albany Hwy & Burslem Dr,115.977573,-32.048562,7/3/17,1440,PDO Major,Right Turn Thru,,0,0,0,0,1,0
+115.790792,-32.048977,25073211,9955407,1190034,McGregor Rd,McGregor Rd,S,1.07,47381,McGregor Rd & Justinian St,115.790792,-32.048977,7/2/19,1715,PDO Major,Right Angle,,0,0,0,0,2,0
+115.802194,-31.85634,24985543,9231563,H577,Mitchell Fwy (Southbound) off to Reid Hwy,Mitchell Fwy (Southbound) off to Reid Hwy,S,0.6,3642,Reid Hwy & Mitchell Fwy (Southbound) off to Reid Hwy & Reid Hwy on to Mitchell Fwy (Southbound) & Balcatta Rd,115.802194,-31.85634,10/1/16,1845,PDO Minor,Rear End,,0,0,0,0,2,0
+115.961213,-32.075262,25072779,9974062,1040044,Warton Rd,Warton Rd,L,1.4,44092,Warton Rd & Forest Lakes Dr & Huntingdale Rd,115.961213,-32.075262,11/3/19,845,Medical,Rear End,,0,0,0,0,2,0
+115.739335,-33.283232,25047451,9783617,2110627,The Boulevard,The Boulevard,L,0.76,193909,The Boulevard & The Promenade,115.739335,-33.283232,6/5/18,1610,PDO Major,Right Angle,,0,0,0,0,2,0
+115.960923,-31.978723,25108816,10174847,1130048,Kewdale Rd,Kewdale Rd,L,0.69,39277,Kewdale Rd & Marchesi St,115.960923,-31.978723,9/1/20,1705,PDO Major,Rear End,,0,0,0,0,2,0
+115.897142,-31.974028,25005525,9429994,1290252,Albany Hwy,Albany Hwy,S,2.71,50936,Leonard St & Albany Hwy,115.897142,-31.974028,11/9/16,1445,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.880173,-31.926215,25045629,9731787,1250050,Beaufort St,Beaufort St,S,1.19,55212,Beaufort St & Fourth Av,115.880173,-31.926215,7/2/18,1800,Medical,Right Angle,,1,0,0,0,1,0
+115.947149,-32.027164,25002739,9375042,H001,Albany Hwy,Albany Hwy,L,9.96,14708,Albany Hwy & Highbury Cr,115.947149,-32.027164,27/8/16,940,PDO Major,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.768153,-31.989807,25093913,10362509,H014,Stirling Hwy,Stirling Hwy,S,9.56,13842,Stirling Hwy & Osborne Pde & Eric St,115.768153,-31.989807,3/12/20,935,PDO Minor,Rear End,,0,1,0,0,1,0
+115.760544,-32.27699,25063213,9882621,H002,Melville Mandurah Hwy,Ennis Av,L,27.49,4317,Melville Mandurah Hwy & Dixon Rd,115.760544,-32.27699,24/10/18,1410,PDO Major,Rear End,,0,0,0,0,2,0
+115.829044,-31.914389,25052535,9812910,1300288,Scarborough Beach Rd,Scarborough Beach Rd,R,2.7,153135,Scarborough Beach Rd & Green St,115.829044,-31.914389,17/6/18,1030,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.84133,-31.827805,25041085,9673024,1102158,Highclere Bvd,Highclere Bvd,S,0.82,63712,Highclere Bvd & Rawlinson Dr,115.84133,-31.827805,27/10/17,1800,PDO Major,Rear End,,0,0,0,0,2,0
+118.638222,-20.309959,25022145,9526165,8130043,Athol St,Athol St,S,1.85,17216,Taylor St & Athol St,118.638222,-20.309959,15/3/17,1515,PDO Minor,Right Angle,,0,0,0,0,1,0
+115.746686,-32.287818,25075143,9988926,1071582,Central Prom,Central Prom,L,0.31,52962,Civic Bvd & Central Prom & Syren St,115.746686,-32.287818,1/4/19,1900,PDO Major,Right Angle,,0,0,0,0,2,0
+115.87073,-32.025321,24986372,9244736,1260103,Pepler Av,Pepler Av,S,0.6,54882,Pepler Av & Tandy St,115.87073,-32.025321,21/1/16,645,PDO Major,Right Angle,,0,0,0,0,2,0
+115.941315,-32.024827,24988395,9248939,H001,Albany Hwy,Albany Hwy,L,9.34,14311,Albany Hwy & Station St Sth,115.941315,-32.024827,19/1/16,1750,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.966579,-31.855633,25102257,10127613,1090564,Marshall Rd,Marshall Rd,S,0.0,273995,Marshall Rd & Drumpellier Dr & Dayton Bvd,115.966579,-31.855633,30/10/19,740,PDO Major,Rear End,,0,0,0,0,2,0
+115.892951,-32.072045,24993740,9299604,1140459,Bannister Rd,Bannister Rd,L,0.54,71710,Bannister Rd & South St & Ranford Rd,115.892951,-32.072045,28/4/16,550,PDO Major,Rear End,,0,0,0,0,2,0
+115.80285,-31.893691,25093905,10352921,H564,Mitchell Fwy (Northbound) off to Cedric St,Mitchell Fwy (Northbound) off to Cedric St,S,0.61,4349,Mitchell Fwy (Northbound) off to Cedric St & Cedric St to Karrinyup Rd & Cedric St & Stirling Stn Bus Access,115.80285,-31.893691,1/11/20,1810,Medical,Rear End,,0,0,0,0,1,0
+115.846803,-32.046113,25101517,10105861,H012,Leach Hwy,Leach Hwy,L,7.9,4041,Leach Hwy & Moolyeen Rd,115.846803,-32.046113,19/9/19,1330,PDO Major,Right Angle,,0,0,0,0,1,0
+115.963441,-31.998114,25044320,9718825,H027,Rivervale Wattle Grove Link,Orrong Rd,L,6.73,81636,Rivervale Wattle Grove Link & McDowell St,115.963441,-31.998114,18/1/18,745,Medical,Right Angle,,0,0,0,0,2,0
+115.84249,-32.069905,25093089,10361039,1190680,Murdoch Dr,Murdoch Dr,L,1.13,209644,Murdoch Dr & Barry Marshall Pde,115.84249,-32.069905,7/12/20,1245,PDO Major,Rear End,,0,0,0,0,2,0
+122.221046,-17.935389,25023392,9579572,H042,Broome Hwy,Gubinge Rd,S,32.98,79011,Broome Hwy & Sayonara Rd,122.221046,-17.935389,26/7/17,800,Hospital,Non Collision,,1,0,0,0,1,0
+115.696947,-33.32733,25116566,10241061,H057,Forrest Hwy,Forrest Hwy,R,91.32,13718,Forrest Hwy & Old Coast Rd Acceleration Lane & Old Coast Rd,115.696947,-33.32733,17/1/20,1100,PDO Minor,Rear End,,0,0,0,0,2,0
+115.79045,-31.981476,25033556,9657630,H014,Stirling Hwy,Stirling Hwy,S,7.2,13930,Stirling Hwy & Bay Rd,115.79045,-31.981476,13/10/17,1730,PDO Minor,Rear End,,0,0,0,0,2,0
+115.764386,-31.746439,25095267,10345969,1311665,Joondalup Dr,Joondalup Dr,L,3.78,70647,Joondalup Dr & Collier Pass,115.764386,-31.746439,13/11/20,840,PDO Minor,Rear End,,0,0,0,0,2,0
+115.722476,-32.534794,25006675,9421742,2120703,Pinjarra Rd,Pinjarra Rd,S,0.75,34788,Sutton St & Pinjarra Rd,115.722476,-32.534794,30/8/16,900,PDO Minor,Rear End,,0,0,0,0,1,0
+115.997309,-32.068466,25081919,10054151,1040004,Fremantle Rd,Fremantle Rd,R,0.2,43779,Fremantle Rd & Lissiman St,115.997309,-32.068466,2/7/19,1030,Medical,Right Angle,,0,0,0,0,1,0
+115.945186,-32.026872,25036496,9634615,H001,Albany Hwy,Albany Hwy,L,9.78,4255,Albany Hwy & Nicholson Rd & Nicholson Rd,115.945186,-32.026872,7/9/17,1740,PDO Minor,Rear End,,0,0,0,0,2,0
+115.811594,-32.334058,25046321,9752094,1070003,Safety Bay Rd,Safety Bay Rd,L,13.93,161079,Safety Bay Rd & Nairn Dr,115.811594,-32.334058,27/2/18,1000,PDO Minor,Rear End,,0,0,0,0,2,0
+115.784992,-31.978669,25044786,9739294,1150022,Shenton Rd,Shenton Rd,S,1.74,41271,Shenton Rd & Graylands Rd,115.784992,-31.978669,15/3/18,1215,Medical,Right Turn Thru,,0,0,0,0,2,0
+121.449055,-30.774883,25053034,9794566,6052057,Gatacre Dr,Gatacre Dr,L,1.98,74389,Gatacre Dr & Broadwood St,121.449055,-30.774883,18/5/18,1605,PDO Major,Rear End,,0,0,0,0,2,0
+115.953059,-32.207358,25002224,9383711,H038,Thomas Rd,Thomas Rd,S,16.94,54070,Thomas Rd & Kargotich Rd,115.953059,-32.207358,17/8/16,1235,PDO Major,Hit Object,,0,0,0,0,1,0
+115.827065,-31.945384,25038968,9697316,1270005,Roberts Rd,Roberts Rd,S,0.79,58637,Roberts Rd & Axon St,115.827065,-31.945384,7/12/17,2225,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.910002,-31.925914,25051076,9809759,H026,Guildford Rd,Guildford Rd,S,4.46,4160,Guildford Rd & Garratt Rd,115.910002,-31.925914,9/6/18,1340,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.93423,-32.039522,25011911,9462838,1040002,Nicholson Rd,Nicholson Rd,S,1.85,43726,Nicholson Rd & Langford Av & Nicholson Rd,115.93423,-32.039522,19/12/16,1530,Medical,Rear End,,0,0,0,0,2,0
+115.815375,-31.820336,25027199,9586971,1311900,Hepburn Av,Hepburn Av,L,0.51,61000,Cockman Rd & Hepburn Av,115.815375,-31.820336,6/6/17,1645,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.889382,-32.068914,25033785,9648464,H032,South St,South St,L,12.36,129570,South St & South St on to Roe Hwy (Eastbound) & Roe Hwy (Eastbound) off to South St,115.889382,-32.068914,12/9/17,1620,PDO Major,Rear End,,0,0,0,0,3,0
+115.864434,-32.126921,25032097,9616654,H023,Armadale Rd,Armadale Rd,L,15.41,14132,Armadale Rd & Solomon Rd,115.864434,-32.126921,3/8/17,630,PDO Major,Right Angle,,0,0,0,0,2,0
+115.999269,-32.068754,25005792,9431133,H001,Albany Hwy,Albany Hwy,L,17.19,4123,Albany Hwy & Fremantle Rd,115.999269,-32.068754,8/10/16,930,PDO Major,Right Angle,Entering / Leaving Driveway,0,0,0,0,2,0
+115.759188,-32.46864,25035637,9632883,H002,Melville Mandurah Hwy,Mandurah Rd,L,49.75,13816,Melville Mandurah Hwy & Madora Beach Rd & Banksiadale Gte,115.759188,-32.46864,8/9/17,1530,PDO Major,Rear End,,0,0,0,0,3,0
+115.759169,-32.044141,25093135,10371926,1170009,George St,George St,S,0.78,42932,George St & Glyde St,115.759169,-32.044141,22/12/20,1100,PDO Major,Right Angle,,0,0,0,0,2,0
+122.229116,-17.954249,25087121,10094594,10037,Frederick St,Frederick St,S,0.65,82288,Frederick St & Shopping Centre Access,122.229116,-17.954249,5/9/19,1715,PDO Major,Rear End,,0,0,0,1,0,0
+115.851984,-31.859978,25098453,10306907,1250136,Balga Av,Balga Av,S,0.3,56134,Balga Av & Loxwood Rd,115.851984,-31.859978,26/9/20,540,Medical,Rear End,,0,0,0,0,2,0
+115.85797,-31.857814,25011265,9451516,1251984,Boyare Av,Boyare Av,S,0.28,58471,Torquata Dr & Boyare Av,115.85797,-31.857814,2/12/16,1045,PDO Minor,Rear End,,0,0,0,0,2,0
+115.842203,-32.065309,25072171,9972279,H032,South St,South St,L,7.76,47055,South St & Murdoch Dr,115.842203,-32.065309,26/2/19,1340,PDO Minor,Rear End,,0,0,0,0,2,0
+116.02831,-31.886042,25062749,9862052,H018,Roe Hwy,Roe Hwy,L,41.2,14902,Roe Hwy & Morrison Rd & Morrison Rd,116.02831,-31.886042,30/8/18,705,PDO Minor,Right Angle,,1,0,0,0,1,0
+115.944332,-31.993407,25001953,9383308,H027,Rivervale Wattle Grove Link,Orrong Rd,L,4.82,39611,Rivervale Wattle Grove Link & Kewdale Rd,115.944332,-31.993407,18/7/16,625,PDO Major,Rear End,,0,0,0,0,2,0
+115.941614,-31.99141,25110592,10386635,H027,Rivervale Wattle Grove Link,Orrong Rd,L,4.48,39688,Rivervale Wattle Grove Link & Pilbara St,115.941614,-31.99141,22/9/20,900,PDO Major,Hit Object,,0,0,1,0,0,0
+115.844837,-31.948333,25099809,10290868,1240080,Havelock St,Havelock St,S,0.15,50540,Havelock St & Murray St,115.844837,-31.948333,8/10/20,1240,Medical,Right Angle,,0,0,0,0,2,0
+115.90493,-31.894739,25005705,9409922,1120003,Walter Rd West,Walter Rd West,S,2.24,37757,Walter Rd West & Crimea St,115.90493,-31.894739,28/10/16,1440,PDO Major,Rear End,,0,0,0,0,2,0
+115.860167,-32.127598,25060168,9866159,H023,Armadale Rd,Armadale Rd,L,15.83,119083,Armadale Rd & Kwinana Fwy (Southbound) off to Armadale Rd & Armadale Rd on to Kwinana Fwy (Southbound),115.860167,-32.127598,8/9/18,0,PDO Minor,Rear End,,0,0,0,0,2,0
+115.84428,-31.914116,25053679,9805863,1250065,London St,London St,S,0.0,50920,London St & London St & Green St,115.84428,-31.914116,5/6/18,1740,Medical,Right Turn Thru,,0,0,0,0,1,0
+115.857854,-31.794007,25045061,9739669,1100004,Gnangara Rd,Gnangara Rd,L,4.21,185190,Gnangara Rd & Sydney Rd & Ocean Reef Rd,115.857854,-31.794007,21/2/18,1340,PDO Major,Rear End,,0,0,0,0,1,0
+116.02831,-31.886042,25062241,9870561,H018,Roe Hwy,Roe Hwy,L,41.2,14902,Roe Hwy & Morrison Rd & Morrison Rd,116.02831,-31.886042,13/9/18,620,PDO Major,Rear End,,0,0,0,0,2,0
+115.840344,-31.834513,25005605,9400346,1101403,Marangaroo Dr,Marangaroo Dr,L,1.94,60892,Girrawheen Av & Marangaroo Dr,115.840344,-31.834513,11/10/16,1505,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.816319,-32.090574,25081788,10034690,1030010,North Lake Rd,North Lake Rd,L,1.83,4060,North Lake Rd & Gwilliam Dr & Forrest Rd,115.816319,-32.090574,8/6/19,2315,Medical,Right Angle,,0,0,0,0,2,0
+115.825622,-31.819772,25078952,10038602,1101900,Hepburn Av,Hepburn Av,L,4.88,80286,Giralt Rd & Hepburn Av,115.825622,-31.819772,12/6/19,1140,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,1,1
+115.933776,-32.08011,25070009,9958055,1041712,Salen L,Salen L,S,0.0,158457,Salen L & Cromarty Gdns,115.933776,-32.08011,14/2/19,800,Medical,,,0,1,0,0,1,0
+115.926677,-31.858806,25098217,10306788,1092079,Bridgeman Dr,Bridgeman Dr,S,1.41,168518,Bridgeman Dr & Dunlin Gdns,115.926677,-31.858806,23/9/20,900,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.711915,-31.676398,25054043,9816249,1100002,Marmion Av,Marmion Av,L,4.19,70817,Marmion Av & Hester Av & Anchorage Dr North,115.711915,-31.676398,21/6/18,1450,Medical,Rear End,,0,0,0,0,1,0
+115.854313,-32.123801,25026634,9585919,1030010,North Lake Rd,North Lake Rd,S,7.37,70625,North Lake Rd & Kentucky Ct & Midgegooroo Av,115.854313,-32.123801,30/6/17,1635,PDO Major,Rear End,,0,0,0,0,2,0
+116.021293,-32.14979,25070718,9969283,H001,Albany Hwy,Albany Hwy,L,26.77,4062,Albany Hwy & South Western Hwy & Armadale Rd,116.021293,-32.14979,1/4/19,1024,PDO Major,Non Collision,,0,0,1,0,0,0
+115.924831,-31.875531,25080375,10041113,1120005,Beechboro Rd North,Beechboro Rd North,L,2.54,37801,Beechboro Rd North & Benara Rd,115.924831,-31.875531,12/6/19,1150,PDO Major,Rear End,,0,0,0,0,2,0
+115.088507,-33.645527,24992464,9287404,2050040,Biddle Rd,Biddle Rd,S,1.4,76778,Biddle Rd & Yungarra Dr,115.088507,-33.645527,16/3/16,1320,PDO Major,Rear End,,0,0,0,0,2,0
+116.018991,-31.952076,25068336,9923348,1020009,Maida Vale Rd,Maida Vale Rd,S,0.44,141406,Maida Vale Rd & Priory Rd,116.018991,-31.952076,16/12/18,1255,Medical,Rear End,,0,0,0,0,2,0
+115.812809,-31.857112,25042907,9716133,H021,Reid Hwy,Reid Hwy,L,4.18,3717,Reid Hwy & Erindale Rd,115.812809,-31.857112,10/1/18,1630,PDO Major,Rear End,,0,0,0,0,5,0
+115.974017,-31.884804,25050728,9799236,1090502,West Swan Rd,West Swan Rd,S,1.42,59269,Hamersley Rd & West Swan Rd,115.974017,-31.884804,26/5/18,1215,PDO Major,Hit Object,,0,0,0,0,1,0
+115.813358,-31.845244,25069243,9966653,1250001,Beach Rd,Beach Rd,S,6.42,55024,Beach Rd & Erindale Rd & Erindale Rd & Beach Rd,115.813358,-31.845244,10/1/19,1148,PDO Major,Right Angle,,0,0,0,0,4,0
+115.997904,-31.661754,25077425,9984324,1090074,Railway Pde,Railway Pde,S,13.42,58965,West Rd & Railway Pde,115.997904,-31.661754,22/3/19,1349,Medical,Sideswipe Same Dirn,Involving Overtaking,0,0,0,1,1,0
+115.919445,-32.01254,25073722,9986037,H012,Leach Hwy,Leach Hwy,L,16.13,4455,Leach Hwy & Manning Rd,115.919445,-32.01254,25/3/19,1510,PDO Minor,Rear End,,0,0,0,0,2,0
+115.855103,-31.865666,25101667,10126095,H851,Reid Hwy West Bnd off to Mirrabooka Av,Reid Hwy,S,0.33,82300,Reid Hwy West Bnd off to Mirrabooka Av & Mirrabooka Av on to Reid Hwy West Bnd & Mirrabooka Av,115.855103,-31.865666,21/10/19,815,PDO Minor,Rear End,,0,0,0,0,2,0
+115.909508,-31.995235,25092184,10358945,1290015,Alday St,Alday St,S,0.32,51789,Alday St & Burlington St,115.909508,-31.995235,20/11/20,1415,PDO Major,Right Angle,,0,0,0,0,2,0
+115.80285,-31.893691,24988619,9239636,H564,Mitchell Fwy (Northbound) off to Cedric St,Mitchell Fwy (Northbound) off to Cedric St,S,0.61,4349,Mitchell Fwy (Northbound) off to Cedric St & Cedric St to Karrinyup Rd & Cedric St & Stirling Stn Bus Access,115.80285,-31.893691,28/1/16,1830,Medical,Rear End,,0,0,0,0,2,0
+116.013477,-31.891842,25095926,10357423,H005,Great Eastern Hwy,Great Eastern Hwy,S,15.97,4040,Great Eastern Hwy & Lloyd St,116.013477,-31.891842,3/11/20,1750,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.789541,-31.900041,25026545,9576146,1250069,Scarborough Beach Rd,Scarborough Beach Rd,S,3.37,55423,Scarborough Beach Rd & Grant St,115.789541,-31.900041,20/5/17,1125,PDO Major,Right Angle,,0,0,0,0,2,0
+115.767555,-31.752378,25043159,9716374,1311665,Joondalup Dr,Joondalup Dr,L,3.05,63196,Joondalup Dr & Hodges Dr & Grand Bvd,115.767555,-31.752378,11/1/18,1535,PDO Major,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.848224,-31.880151,25088612,10200935,1250128,Nollamara Av,Nollamara Av,S,1.3,56037,Nollamara Av & Tuckfield Wy,115.848224,-31.880151,1/3/20,830,Medical,Rear End,,0,0,0,0,2,0
+115.855845,-31.956097,25087591,10208997,1240038,William St,William St,S,1.31,14115,William St & The Esplanade & Mounts Bay Rd,115.855845,-31.956097,14/2/20,1230,PDO Minor,Rear End,,0,0,0,0,2,0
+115.85915,-31.95706,25004850,9417936,1240042,Barrack St,Barrack St,S,0.22,50605,The Esplanade & Barrack St,115.85915,-31.95706,21/9/16,1300,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.756057,-32.05892,25041034,9701647,1180005,Hampton Rd,Hampton Rd,S,2.27,43041,Hampton Rd & Stevens St,115.756057,-32.05892,15/12/17,2300,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.870816,-31.936585,25010082,9448979,1300277,Beaufort St,Beaufort St,S,1.39,50629,Beaufort St & Vincent St,115.870816,-31.936585,8/11/16,930,PDO Major,Rear End,,0,0,0,0,3,0
+115.837073,-31.820888,24994687,9311470,1101268,Hartman Dr,Hartman Dr,R,0.0,90635,Hartman Dr & Hepburn Av,115.837073,-31.820888,18/4/16,1710,PDO Minor,Rear End,,0,0,0,0,2,0
+116.137186,-33.958075,24993460,9299134,H009,South Western Hwy,Hampton St,S,242.79,1400,South Western Hwy & Bridgetown Boyup Brook & Henry St,116.137186,-33.958075,27/4/16,1730,PDO Major,Hit Object,,0,1,0,0,0,0
+115.816736,-31.799799,25008208,9396233,H035,Wanneroo Rd,Wanneroo Rd,L,16.25,4575,Wanneroo Rd & Whitfords Av,115.816736,-31.799799,8/9/16,1510,Medical,Rear End,,0,0,0,0,2,0
+115.997043,-32.008137,25107670,10172493,H017,Tonkin Hwy,Tonkin Hwy,L,56.02,4547,Tonkin Hwy & Rivervale Wattle Grove Link & Welshpool Rd East,115.997043,-32.008137,7/1/20,1600,Medical,Rear End,,0,0,0,0,2,0
+115.91073,-31.989264,25008933,9406945,H001,Albany Hwy,Shepperton Rd,S,4.34,154214,Albany Hwy & Somerset St,115.91073,-31.989264,28/9/16,1500,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.927864,-32.013475,25096273,10367947,H001,Albany Hwy,Albany Hwy,L,7.49,4409,Albany Hwy & Manning Rd & Mallard Wy,115.927864,-32.013475,12/12/20,0,PDO Minor,Rear End,,0,0,0,0,2,0
+115.815713,-32.046237,25048271,9783757,H012,Leach Hwy,Leach Hwy,L,4.97,4177,Leach Hwy & North Lake Rd,115.815713,-32.046237,4/5/18,1700,PDO Major,Rear End,,0,0,0,0,1,0
+115.893744,-31.9303,24996416,9343761,H026,Guildford Rd,Guildford Rd,S,2.84,14172,Guildford Rd & Eighth Av,115.893744,-31.9303,11/6/16,1005,PDO Minor,Rear End,,0,0,0,0,2,0
+115.916912,-31.951672,25039508,9688840,H005,Great Eastern Hwy,Great Eastern Hwy,L,3.3,14240,Great Eastern Hwy & Belmont Av & Tanunda Dr,115.916912,-31.951672,8/11/17,630,PDO Major,Rear End,,0,0,0,0,2,0
+115.818051,-32.333514,25096679,10293744,1070003,Safety Bay Rd,Safety Bay Rd,L,14.54,180929,Safety Bay Rd & Norseman App & Burlington Dr,115.818051,-32.333514,26/8/20,1015,PDO Major,Rear End,,0,0,0,0,1,0
+115.912928,-32.074553,25034794,9631486,1141180,Waratah Bvd,Waratah Bvd,S,1.17,78476,Waratah Bvd & The Ramble & Village Grn,115.912928,-32.074553,28/8/17,1815,Medical,Rear End,,0,0,0,0,2,0
+115.816511,-31.970589,25036664,9654549,1240310,Monash Av,Monash Av,S,0.42,80706,Monash Av & Hospital Av,115.816511,-31.970589,26/10/17,1325,PDO Minor,Non Collision,,0,0,0,1,1,0
+115.877479,-31.871778,25059717,9846043,1120362,Widgee Rd,Widgee Rd,S,2.57,55060,Widgee Rd & Alexander Dr & Alexander Dr & Hellenic Dr,115.877479,-31.871778,2/8/18,1950,PDO Minor,Rear End,,0,0,0,0,2,0
+115.788279,-32.12743,25030720,9594307,H002,Melville Mandurah Hwy,Stock Rd,L,9.11,4116,Melville Mandurah Hwy & Beeliar Dr,115.788279,-32.12743,29/6/17,25,PDO Major,Rear End,,0,0,0,0,1,0
+115.861673,-31.951399,25007617,9395226,1240043,Beaufort St,Beaufort St,S,0.11,50611,Beaufort St & Roe St,115.861673,-31.951399,3/9/16,420,PDO Major,Rear End,,0,0,0,0,4,0
+115.840778,-31.866417,25075069,10020968,1250135,Arkana Rd,Arkana Rd,S,1.26,56129,Arkana Rd & Walderton Av,115.840778,-31.866417,18/5/19,2045,PDO Major,Rear End,,0,0,0,0,1,0
+115.802014,-31.707988,25028528,9608665,1100250,Pinjar Rd,Pinjar Rd,S,4.04,154995,Pinjar Rd & Joondalup Dr,115.802014,-31.707988,30/7/17,2115,PDO Major,Right Angle,,0,0,0,0,2,0
+115.859253,-31.924835,25046816,9780874,1300280,Fitzgerald St,Fitzgerald St,S,2.16,161402,Fitzgerald St & Nova L,115.859253,-31.924835,28/4/18,1620,PDO Major,Rear End,,0,0,0,0,3,0
+115.845763,-31.939274,25092019,10369001,1300104,Newcastle St,Newcastle St,S,0.48,50856,Newcastle St & Loftus St,115.845763,-31.939274,21/11/20,1340,Medical,Right Angle,,0,0,0,0,2,0
+115.87852,-31.859572,25107179,10192883,1090698,Alexander Dr,Alexander Dr,S,0.94,55320,Alexander Dr & Alexander Dr & Australis Av,115.87852,-31.859572,11/2/20,815,PDO Minor,Right Angle,,0,0,0,0,1,0
+115.815838,-32.093491,25066920,9920443,1030005,Phoenix Rd,Phoenix Rd,L,3.79,14038,Phoenix Rd & North Lake Rd,115.815838,-32.093491,7/12/18,1830,PDO Major,Rear End,,0,0,0,0,2,0
+115.754172,-31.81761,25071985,9952450,1311900,Hepburn Av,Hepburn Av,L,6.68,63385,Seacrest Dr & Hepburn Av,115.754172,-31.81761,4/2/19,835,PDO Minor,Right Angle,,0,0,0,0,1,0
+115.770327,-31.893961,24998086,9346828,1250069,Scarborough Beach Rd,Scarborough Beach Rd,S,1.33,55405,Scarborough Beach Rd & Burniston St,115.770327,-31.893961,13/6/16,1805,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.882135,-31.935927,25111711,9715961,H026,Guildford Rd,Guildford Rd,S,1.58,14158,Guildford Rd & Ellesmere Rd,115.882135,-31.935927,10/1/18,1435,PDO Major,Right Angle,,0,0,0,0,0,0
+115.835783,-32.04602,25005682,9409740,H012,Leach Hwy,Leach Hwy,L,6.86,4438,Leach Hwy & Riseley St,115.835783,-32.04602,25/9/16,1700,PDO Major,Rear End,,0,0,0,0,2,0
+115.79801,-31.79686,25034418,9659173,1311180,Woodvale Dr,Woodvale Dr,S,1.25,67844,Woodvale Dr & Fallbrook Av,115.79801,-31.79686,22/10/17,1830,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.94445,-32.013546,24989844,9252413,1140011,Sevenoaks St,Sevenoaks St,L,3.1,39585,Sevenoaks St & Cecil Av & Cannington Station Bus Access,115.94445,-32.013546,22/2/16,1715,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.825662,-32.046106,25010163,9459247,H012,Leach Hwy,Leach Hwy,L,5.89,10894,Leach Hwy & Winthrop Dr,115.825662,-32.046106,23/12/16,1635,PDO Major,Hit Object,,0,0,0,0,1,0
+115.997043,-32.008137,25081842,10044297,H017,Tonkin Hwy,Tonkin Hwy,L,56.02,4547,Tonkin Hwy & Rivervale Wattle Grove Link & Welshpool Rd East,115.997043,-32.008137,21/6/19,1325,Medical,Rear End,,0,0,0,0,3,0
+115.864124,-32.009834,25087291,10075858,1260039,Ley St,Ley St,S,0.45,54697,Ley St & Davilak St & Davilak Cr,115.864124,-32.009834,8/8/19,745,Medical,Right Angle,,1,0,0,0,1,0
+116.014674,-31.916192,25041647,9742513,H018,Roe Hwy,Roe Hwy,L,37.54,14827,Roe Hwy & Great Eastern Hwy Bypa,116.014674,-31.916192,21/2/18,1920,PDO Major,Rear End,,0,0,0,0,2,0
+115.876813,-31.950012,24995871,9352012,1240162,East Pde,East Pde,L,0.17,51108,Kensington St & East Pde,115.876813,-31.950012,30/6/16,1515,Medical,Right Angle,,0,0,0,0,2,0
+115.830834,-31.871279,24995011,9350449,H035,Wanneroo Rd,Wanneroo Rd,L,8.18,55056,Wanneroo Rd & Arkana Rd,115.830834,-31.871279,10/8/16,720,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.760544,-32.27699,25081082,10052401,H002,Melville Mandurah Hwy,Ennis Av,L,27.49,4317,Melville Mandurah Hwy & Dixon Rd,115.760544,-32.27699,27/6/19,2330,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.830474,-31.855274,25081272,10043269,1250138,Camberwell Rd,Camberwell Rd,S,0.69,56164,Camberwell Rd & Mentone Rd,115.830474,-31.855274,18/6/19,620,Hospital,Hit Pedestrian,Involving Pedestrian,0,0,0,0,1,1
+115.90717,-31.995287,25008012,9404773,1290014,Hill View Tce,Hill View Tce,S,1.42,51002,Hill View Tce & Berwick St,115.90717,-31.995287,25/9/16,2300,Hospital,Right Turn Thru,,0,0,0,0,1,0
+119.727673,-23.358442,25020934,9514342,8120090,Newman Dr,Newman Dr,S,2.5,68799,Fortescue Av & Newman Dr,119.727673,-23.358442,22/3/17,1705,PDO Major,Rear End,,0,0,0,0,1,0
+116.016054,-31.940642,25092422,10349412,H018,Roe Hwy,Roe Hwy,L,34.75,4552,Roe Hwy & Kalamunda Rd,116.016054,-31.940642,19/10/20,1630,Medical,Rear End,,0,0,0,0,2,0
+115.828239,-31.902191,24983511,10284377,1250067,Main St,Main St,S,1.33,55361,Main St & Cape St,115.828239,-31.902191,12/8/20,2030,PDO Minor,,,0,0,0,0,2,0
+115.883695,-31.923259,25047397,9783158,1250050,Beaufort St,Beaufort St,S,1.65,55196,Seventh Av & Beaufort St,115.883695,-31.923259,7/5/18,805,PDO Major,Right Angle,,0,0,0,0,2,0
+115.83769,-31.888965,25052796,9803707,H028,Karrinyup Morley Hwy,Morley Dr,L,7.47,55048,Karrinyup Morley Hwy & Wanneroo Rd,115.83769,-31.888965,29/5/18,1825,PDO Major,Rear End,,0,0,0,0,2,0
+115.855047,-31.867802,25107180,10192894,1250129,Mirrabooka Av,Mirrabooka Av,L,0.63,80391,Mirrabooka Av & Milldale Wy,115.855047,-31.867802,12/2/20,1600,PDO Major,Right Angle,,0,0,0,0,2,0
+116.01774,-32.136281,25012196,9463342,H001,Albany Hwy,Albany Hwy,L,25.21,14864,Albany Hwy & Carawatha Av,116.01774,-32.136281,23/12/16,905,PDO Major,Right Angle,,0,0,0,0,2,0
+116.064543,-31.991105,25057011,9831448,1020003,Canning Rd,Canning Rd,S,2.55,45316,Canning Rd & Lesmurdie Rd & Lesmurdie Rd East,116.064543,-31.991105,16/7/18,1845,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.729752,-32.530474,25075094,10021128,2120141,Cooper St,Cooper St,S,0.88,34735,Cooper St & Randell St,115.729752,-32.530474,16/5/19,1615,PDO Major,Right Angle,,0,0,0,0,1,0
+115.846627,-31.936418,25082264,10055098,1300287,Loftus St,Loftus St,L,0.62,50858,Loftus St & Vincent St,115.846627,-31.936418,5/7/19,1530,PDO Major,Rear End,,0,0,0,0,1,0
+115.782768,-32.099123,25025054,9563385,1030498,Rockingham Rd,Rockingham Rd,S,3.47,42147,Coleville Cr & Rockingham Rd,115.782768,-32.099123,18/5/17,1100,PDO Major,Right Angle,,0,0,0,0,1,0
+115.859977,-32.047072,25041066,9701924,H012,Leach Hwy,Leach Hwy,L,9.14,4451,Leach Hwy & Bull Creek Dr,115.859977,-32.047072,16/12/17,2200,PDO Major,Rear End,,0,0,0,0,3,0
+115.815689,-32.03994,25106965,10156933,1190003,North Lake Rd,North Lake Rd,S,1.0,47033,North Lake Rd & Marmion St,115.815689,-32.03994,12/12/19,830,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.914475,-31.996148,25089214,10202209,H001,Albany Hwy,Albany Hwy,S,5.19,14232,Albany Hwy & Boundary Rd,115.914475,-31.996148,27/2/20,740,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.900897,-31.981268,25115320,10268098,1290077,Kent St,Kent St,S,0.0,50947,Kent St & Albany Hwy,115.900897,-31.981268,14/7/20,1800,PDO Minor,Rear End,,0,0,0,0,1,0
+115.866386,-31.936554,25110092,10188225,1300278,William St,William St,S,0.72,50587,William St & Vincent St,115.866386,-31.936554,6/2/20,823,PDO Major,Right Turn Thru,,0,0,0,0,1,0
+115.817962,-31.975643,24987865,9257948,H014,Stirling Hwy,Stirling Hwy,L,4.52,67701,Stirling Hwy & Winthrop Av,115.817962,-31.975643,26/2/16,1645,PDO Minor,Rear End,,0,0,0,0,3,0
+115.881004,-31.925528,25094296,10374030,1250050,Beaufort St,Beaufort St,S,1.29,55213,Beaufort St & Fifth Av,115.881004,-31.925528,28/11/20,1600,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.827815,-31.86367,25074889,9988676,H035,Wanneroo Rd,Wanneroo Rd,L,9.05,3630,Wanneroo Rd & Balcatta Rd,115.827815,-31.86367,28/3/19,1410,PDO Major,Rear End,,0,0,0,0,2,0
+115.668396,-33.349144,25062002,9880069,H009,South Western Hwy,Robertson Dr,L,153.11,1189,South Western Hwy & Forrest Hwy & Picton Rd,115.668396,-33.349144,26/9/18,1245,Medical,Right Angle,,0,0,0,0,2,0
+115.877025,-31.820899,25011633,9462438,1101654,Alexander Dr,Alexander Dr,L,1.57,153096,Hepburn Av & Alexander Dr & Hepburn Av,115.877025,-31.820899,13/12/16,1300,Medical,Rear End,,0,0,0,0,2,0
+115.93329,-31.937188,25074965,9998844,H005,Great Eastern Hwy,Great Eastern Hwy,L,5.59,14291,Great Eastern Hwy & Epsom Av,115.93329,-31.937188,12/4/19,1845,PDO Major,Right Angle,,0,0,0,0,2,0
+116.014046,-31.864203,25002213,9383603,H006,Great Northern Hwy,Great Northern Hwy,S,3.17,4147,Great Northern Hwy & Roe Hwy & Reid Hwy & Great Northern Hwy,116.014046,-31.864203,1/8/16,1540,PDO Major,Rear End,,0,0,0,0,2,0
+116.021293,-32.14979,25026975,9586872,H001,Albany Hwy,Albany Hwy,L,26.77,4062,Albany Hwy & South Western Hwy & Armadale Rd,116.021293,-32.14979,30/6/17,1645,PDO Major,Rear End,,0,0,0,0,2,0
+115.750499,-33.286966,25089749,10232660,H057,Forrest Hwy,Forrest Hwy,L,83.74,186529,Forrest Hwy & Grand Entrance Acceleration Lane on to Forrest Hwy Sth Bnd & Grand Ent,115.750499,-33.286966,3/6/20,1420,Medical,Right Angle,,0,0,0,0,1,0
+115.84249,-32.069905,25073154,9945470,1190680,Murdoch Dr,Murdoch Dr,L,1.13,209644,Murdoch Dr & Barry Marshall Pde,115.84249,-32.069905,15/1/19,1110,PDO Minor,Right Angle,,1,0,0,0,1,0
+115.894174,-32.054906,25052203,9802436,1140154,Collins Rd,Collins Rd,S,0.46,40088,Collins Rd & Portcullis Dr,115.894174,-32.054906,31/5/18,1520,Medical,Rear End,,0,0,0,0,2,0
+115.846803,-32.046113,25029329,9600899,H012,Leach Hwy,Leach Hwy,L,7.9,4041,Leach Hwy & Moolyeen Rd,115.846803,-32.046113,18/7/17,1800,PDO Minor,Rear End,,0,0,0,0,2,0
+115.920986,-32.004039,25042793,9745863,H001,Albany Hwy,Albany Hwy,L,6.25,14250,Albany Hwy & Ewing St Sth & Bedford St,115.920986,-32.004039,3/3/18,15,PDO Major,Rear End,,0,0,0,0,2,0
+115.762926,-32.294527,25068354,9923495,H002,Melville Mandurah Hwy,Ennis Av,L,29.6,13837,Melville Mandurah Hwy & Grange Dr & Elanora Dr,115.762926,-32.294527,14/12/18,1020,PDO Major,Rear End,,0,0,0,0,1,0
+117.181805,-32.939778,25059201,9854622,M031,Northam Cranbrook,Pioneer Dr,S,168.41,132597,Northam Cranbrook & Herald St,117.181805,-32.939778,18/8/18,1600,PDO Major,Right Angle,,0,0,0,0,2,0
+115.877625,-31.850776,25005938,9409955,1090697,Beach Rd,Beach Rd,L,0.0,59572,Beach Rd & Alexander Dr & Beach Rd & Beach Rd & Alexander Dr,115.877625,-31.850776,16/10/16,1210,PDO Major,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.927308,-31.940786,25018611,9518755,H005,Great Eastern Hwy,Great Eastern Hwy,L,4.92,4427,Great Eastern Hwy & Hardey Rd & Resolution Dr,115.927308,-31.940786,8/3/17,815,PDO Minor,Rear End,,0,0,0,0,2,0
+115.753433,-33.270104,25053205,9784572,H057,Forrest Hwy,Forrest Hwy,L,81.8,10135,Forrest Hwy & Paris Rd,115.753433,-33.270104,3/5/18,810,PDO Major,Rear End,,0,0,0,0,2,0
+115.925863,-32.092926,25087020,10084532,1040026,Ranford Rd,Ranford Rd,L,0.91,43988,Ranford Rd & Campbell Rd,115.925863,-32.092926,21/8/19,1930,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+116.146437,-34.238704,25001820,9364304,2130251,Mount St,Mount St,S,0.13,34200,Mount St & Rose St,116.146437,-34.238704,15/7/16,1945,PDO Major,Right Angle,,0,0,0,0,2,0
+116.014183,-31.888726,24994132,9280522,1091173,Lloyd St,Lloyd St,S,1.01,60103,The Crescent & Lloyd St,116.014183,-31.888726,4/3/16,815,PDO Minor,Rear End,,0,0,0,0,1,0
+115.918944,-31.971679,24986424,9255145,H027,Rivervale Wattle Grove Link,Orrong Rd,L,1.39,38822,Rivervale Wattle Grove Link & Archer St,115.918944,-31.971679,11/2/16,805,PDO Major,Rear End,,0,0,0,0,3,0
+114.632037,-28.759243,25008604,9406031,5050072,Place Rd,Place Rd,L,0.7,207282,Flores Rd & Place Rd,114.632037,-28.759243,20/10/16,840,PDO Minor,Rear End,,0,0,0,0,1,0
+115.876654,-31.95616,25099331,10308628,1240132,Plain St,Plain St,S,0.57,51251,Plain St & Bronte St,115.876654,-31.95616,25/9/20,1555,PDO Major,Right Angle,,0,0,0,0,2,0
+115.988368,-31.950995,24990427,9292837,1020997,Abernethy Rd,Abernethy Rd,L,3.41,149432,Abernethy Rd & Grogan Rd,115.988368,-31.950995,9/4/16,1340,Medical,Rear End,,0,0,0,0,2,0
+115.798406,-32.100972,24987687,9276277,H002,Melville Mandurah Hwy,Stock Rd,L,5.91,13979,Melville Mandurah Hwy & Spearwood Av,115.798406,-32.100972,4/3/16,1530,PDO Minor,Rear End,,0,0,0,0,2,0
+115.642508,-33.333733,24993714,9299374,2040079,Bourke St,Bourke St,S,0.24,65550,Bourke St & Stuart St,115.642508,-33.333733,31/3/16,915,PDO Major,Right Angle,,0,0,0,0,2,0
+115.8446,-31.940943,25029156,9610386,H675,Loftus St on to Graham Farmer Fwy (Eastbound),Loftus St on to Graham Farmer Fwy (Eastbound),S,0.0,67708,Loftus St on to Graham Farmer Fwy (Eastbound) & Leederville Pde & Loftus St,115.8446,-31.940943,22/7/17,1110,PDO Minor,,,0,0,0,0,2,0
+115.732542,-32.535346,24996837,9325816,2120703,Pinjarra Rd,Pinjarra Rd,S,1.69,34707,Anstruther Rd & Pinjarra Rd,115.732542,-32.535346,24/6/16,1210,PDO Major,Right Angle,,0,0,0,0,1,0
+117.813453,-35.012664,24983869,10286641,3020607,Lower Denmark Rd,Lower Denmark Rd,S,4.46,12356,George St & Lower Denmark Rd,117.813453,-35.012664,8/9/20,1330,Medical,Right Angle,,1,0,0,0,1,0
+115.800125,-32.032558,25028022,9617365,H013,Canning Hwy,Canning Hwy,L,11.63,4475,Canning Hwy & Preston Point Rd,115.800125,-32.032558,9/8/17,1505,PDO Minor,Rear End,,0,0,0,0,2,0
+115.690399,-31.628628,25087347,10085288,1100002,Marmion Av,Marmion Av,L,10.06,179002,Marmion Av & Santorini Prom & Hawksbill Dr,115.690399,-31.628628,21/8/19,1505,PDO Minor,Hit Object,,0,0,0,1,0,0
+116.032865,-31.951775,25099262,10298950,1020017,Gooseberry Hill Rd,Gooseberry Hill Rd,S,0.86,45466,Gooseberry Hill Rd & Watsonia Rd,116.032865,-31.951775,9/9/20,1330,Medical,Rear End,,0,0,0,0,2,0
+115.865566,-32.124894,25036362,9653832,1030058,Solomon Rd,Solomon Rd,S,0.26,157325,Solomon Rd & Monash Gte & Avior Av,115.865566,-32.124894,3/11/17,1008,Hospital,Right Turn Thru,,0,0,0,1,2,0
+115.831985,-32.021796,25052291,9812711,H013,Canning Hwy,Canning Hwy,L,8.23,14069,Canning Hwy & Willcock St,115.831985,-32.021796,12/6/18,1805,PDO Major,,,0,0,0,0,1,0
+115.793734,-31.882409,25025963,9574952,H028,Karrinyup Morley Hwy,Karrinyup Rd,L,3.02,56003,Karrinyup Morley Hwy & Muir St,115.793734,-31.882409,11/5/17,1640,PDO Major,Right Angle,,0,0,0,0,2,0
+115.926728,-31.978589,24992615,9307216,H027,Rivervale Wattle Grove Link,Orrong Rd,L,2.46,38828,Rivervale Wattle Grove Link & Oats St & Oats St,115.926728,-31.978589,18/4/16,1415,PDO Minor,Rear End,,0,0,0,0,1,0
+116.838815,-20.731706,25056710,9860490,8140103,Balmoral Rd,Balmoral Rd,S,0.89,235147,Balmoral Rd & Bayview Rd,116.838815,-20.731706,28/8/18,1445,PDO Minor,Hit Object,,0,0,0,1,0,0
+115.821403,-31.831149,25045066,9739708,H035,Wanneroo Rd,Wanneroo Rd,L,12.74,4106,Wanneroo Rd & Marangaroo Dr,115.821403,-31.831149,23/2/18,1620,Medical,Rear End,,0,0,0,0,2,0
+115.878314,-31.958735,25089274,10212082,1240133,Nelson Cr,Nelson Cr,S,0.26,51808,Nelson Cr & Hale St,115.878314,-31.958735,10/3/20,1630,PDO Minor,Right Turn Thru,,0,0,0,1,1,0
+116.02831,-31.886042,25060816,9876695,H018,Roe Hwy,Roe Hwy,L,41.2,14902,Roe Hwy & Morrison Rd & Morrison Rd,116.02831,-31.886042,14/11/18,718,PDO Minor,Rear End,,0,0,0,0,2,0
+115.900554,-32.012347,25100134,10300702,1140022,Lawson St,Lawson St,L,0.12,39629,Lawson St & Farnham St,115.900554,-32.012347,10/9/20,1800,PDO Major,Rear End,,0,0,0,0,2,0
+115.926407,-32.011351,25108083,10193736,H001,Albany Hwy,Albany Hwy,L,7.22,14271,Albany Hwy & Hamilton St,115.926407,-32.011351,11/2/20,1225,PDO Major,Rear End,,0,0,0,0,2,0
+115.80476,-31.892935,24997333,9354806,H565,Cedric St on to Mitchell Fwy (Southbound),Cedric St on to Mitchell Fwy (Southbound),S,0.0,4350,Cedric St on to Mitchell Fwy (Southbound) & Karrinyup Rd to Cedric St & Cedric St & Stirling Stn Bus Access,115.80476,-31.892935,1/7/16,830,PDO Minor,Rear End,,0,0,0,0,2,0
+115.920986,-32.004039,25028748,9599843,H001,Albany Hwy,Albany Hwy,L,6.25,14250,Albany Hwy & Ewing St Sth & Bedford St,115.920986,-32.004039,11/7/17,2025,PDO Major,Right Angle,,0,0,0,0,2,0
+115.761718,-32.041177,25033289,9666992,H013,Canning Hwy,Canning Hwy,S,15.4,4479,Canning Hwy & Stirling Hwy,115.761718,-32.041177,20/11/17,1515,Medical,Rear End,,0,0,0,0,1,0
+115.868853,-31.931637,24993423,9298758,1300281,Walcott St,Walcott St,S,0.88,50879,Clifton Cr & Walcott St,115.868853,-31.931637,30/4/16,815,PDO Major,Rear End,,0,0,0,0,1,0
+115.804184,-31.904208,25026560,9576267,1250069,Scarborough Beach Rd,Scarborough Beach Rd,L,4.84,55109,Selby St North & Scarborough Beach Rd & King Edward Rd,115.804184,-31.904208,20/5/17,1325,PDO Minor,Rear End,,0,0,0,0,2,0
+115.904412,-32.055119,25060706,9897043,1140427,Willeri Dr,Willeri Dr,L,1.82,132419,Collins Rd & Willeri Dr,115.904412,-32.055119,25/10/18,1715,PDO Major,Right Turn Thru,,0,0,0,0,1,0
+115.913844,-32.012008,25083441,10067161,1140026,Wyong Rd,Wyong Rd,S,0.53,39632,Wyong Rd & Baldock St,115.913844,-32.012008,27/7/19,35,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.93953,-31.946831,25100094,10291302,1130028,Belvidere St,Belvidere St,S,0.35,39164,Belvidere St & Keymer St,115.93953,-31.946831,27/8/20,1945,PDO Major,Hit Object,,0,0,0,0,1,0
+115.719256,-31.693253,25085095,10090353,1103105,Neerabup Rd,Neerabup Rd,L,0.29,126394,Neerabup Rd & Key Largo Dr & McAllister Bvd,115.719256,-31.693253,29/8/19,1849,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.882948,-31.973905,25065938,9908219,H013,Canning Hwy,Canning Hwy,S,0.85,4461,Canning Hwy & Berwick St,115.882948,-31.973905,10/11/18,1920,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.918906,-31.926308,25051774,9821668,1120155,Sutherland St,Sutherland St,S,0.12,38443,Sutherland St & Halliday St,115.918906,-31.926308,27/6/18,1410,PDO Major,Right Angle,,0,0,0,0,2,0
+115.801666,-32.065571,24984189,10280817,H032,South St,South St,L,3.59,43188,South St & McCombe Av,115.801666,-32.065571,7/8/20,1045,PDO Minor,Rear End,,0,0,0,0,3,0
+115.908349,-32.012916,25033496,9647760,1140001,Manning Rd,Manning Rd,L,1.86,39502,Manning Rd & Ellis St & Dumond St,115.908349,-32.012916,16/9/17,1130,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.835783,-32.04602,25025536,9555121,H012,Leach Hwy,Leach Hwy,L,6.86,4438,Leach Hwy & Riseley St,115.835783,-32.04602,6/5/17,1045,Medical,Rear End,,0,0,0,0,2,0
+115.81495,-31.956339,25045142,9710817,1270009,Nicholson Rd,Nicholson Rd,S,0.74,58687,Nicholson Rd & Derby Rd,115.81495,-31.956339,4/1/18,1325,PDO Major,Right Angle,,0,0,0,0,2,0
+116.008173,-31.917555,25071708,9951901,H019,Great Eastern Hwy Bypa,Great Eastern Hwy Bypa,R,13.48,14795,Great Eastern Hwy Bypa & Stirling Cr,116.008173,-31.917555,31/1/19,845,PDO Minor,Rear End,,0,0,0,0,2,0
+115.787099,-31.982081,25058888,9844577,H014,Stirling Hwy,Stirling Hwy,S,7.54,139007,Stirling Hwy & Goldsworthy Rd,115.787099,-31.982081,11/8/18,1455,PDO Major,Rear End,,0,0,0,0,2,0
+115.757978,-32.284921,25000555,9361464,H002,Melville Mandurah Hwy,Ennis Av,L,28.41,13807,Melville Mandurah Hwy & Council Av & Carvie St,115.757978,-32.284921,22/6/16,855,PDO Minor,Rear End,,0,0,0,0,2,0
+115.919107,-32.041393,24997706,9327593,1140267,Metcalfe Rd,Metcalfe Rd,S,2.19,40280,Metcalfe Rd & High Rd,115.919107,-32.041393,25/5/16,1620,PDO Major,Right Angle,,0,0,0,0,2,0
+115.91419,-31.993855,25026191,9565727,1290109,Welshpool Rd,Welshpool Rd,S,0.11,40650,Norman St & Welshpool Rd,115.91419,-31.993855,19/5/17,830,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.902432,-32.064002,25086371,10073363,1140459,Bannister Rd,Bannister Rd,L,1.8,40466,Bannister Rd & Baile Rd,115.902432,-32.064002,5/8/19,1215,PDO Major,Rear End,,0,0,0,0,2,0
+115.8114,-32.128511,25104194,10121612,1030007,Spearwood Av,Spearwood Av,L,6.74,70591,Spearwood Av & Beeliar Dr,115.8114,-32.128511,16/10/19,645,PDO Major,Rear End,,0,0,0,0,2,0
+115.757995,-32.041313,24999741,9369160,1170002,East St,East St,S,0.0,42887,East St & Riverside Rd & Beach St,115.757995,-32.041313,6/8/16,812,PDO Minor,Right Angle,,1,0,0,0,0,0
+115.990886,-32.147049,25028751,9599861,H023,Armadale Rd,Armadale Rd,L,2.93,36814,Armadale Rd & Seville Dr,115.990886,-32.147049,11/7/17,1245,Medical,Rear End,,0,0,0,0,2,0
+115.963441,-31.998114,24994231,9291070,H027,Rivervale Wattle Grove Link,Orrong Rd,L,6.73,81636,Rivervale Wattle Grove Link & McDowell St,115.963441,-31.998114,1/4/16,1415,Medical,Rear End,,0,0,0,0,2,0
+115.855472,-31.947326,25061449,9879240,1240018,James St West,James St West,S,0.48,51408,James St West & Parker St,115.855472,-31.947326,30/9/18,1600,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.977573,-32.048562,25025728,9574798,H001,Albany Hwy,Albany Hwy,S,13.95,14753,Albany Hwy & Burslem Dr,115.977573,-32.048562,27/4/17,720,PDO Major,Right Angle,Involving Overtaking,0,0,0,0,2,0
+115.710954,-31.655418,25018395,9527957,1103103,Lukin Dr,Lukin Dr,L,0.65,125776,Lukin Dr & Baltimore Pde,115.710954,-31.655418,8/3/17,2330,PDO Minor,Right Angle,,0,0,0,0,2,0
+117.866065,-35.003046,25115973,10278650,H008,South Coast Hwy,Chester Pass Rd,S,0.0,148115,South Coast Hwy & Chester Pass Rty,117.866065,-35.003046,30/7/20,1245,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,1,0,1,0
+115.872166,-31.934446,25036658,9654507,1250050,Beaufort St,Beaufort St,S,0.0,50633,Beaufort St & Beaufort St & Walcott St,115.872166,-31.934446,27/10/17,1500,PDO Major,Rear End,,0,0,0,0,2,0
+115.876017,-31.900711,25024952,9591233,1250077,Grand Prom,Grand Prom,L,0.88,55550,Grand Prom & Woodrow Av,115.876017,-31.900711,15/6/17,2020,PDO Minor,Right Turn Thru,,0,0,0,0,2,0
+115.95191,-31.939437,25099800,10290757,113Z027,Boud Av (Federal),Boud Av (Federal),S,0.71,171755,Boud Av (Federal) & Dunreath Dr (Federal),115.95191,-31.939437,20/8/20,1730,PDO Major,Rear End,,0,0,0,0,2,0
+115.957313,-32.078297,25011780,9442844,1040044,Warton Rd,Warton Rd,L,1.91,44094,Warton Rd & Bronzewing St,115.957313,-32.078297,24/11/16,1635,PDO Major,Rear End,,0,0,0,0,2,0
+115.981958,-31.985108,24981866,10237892,1020811,Dundas Rd,Dundas Rd,S,5.85,172496,Dundas Rd & Daddow Rd,115.981958,-31.985108,18/5/20,650,PDO Major,Right Angle,,0,0,0,0,2,0
+115.801404,-31.882469,25104597,10132681,H028,Karrinyup Morley Hwy,Karrinyup Rd,L,3.76,4353,Karrinyup Morley Hwy & Mitchell Fwy (Southbound) off to Karrinyup Rd & Karrinyup Rd to Cedric St,115.801404,-31.882469,9/11/19,1300,Medical,Rear End,,0,0,0,0,2,0
+115.916912,-31.951672,25063329,9863303,H005,Great Eastern Hwy,Great Eastern Hwy,L,3.3,14240,Great Eastern Hwy & Belmont Av & Tanunda Dr,115.916912,-31.951672,2/9/18,1730,PDO Major,Rear End,,0,0,0,0,2,0
+115.906533,-32.080529,25026332,9585264,1141104,Ranford Rd,Ranford Rd,L,1.4,71711,Ranford Rd & Waratah Bvd,115.906533,-32.080529,12/6/17,1720,PDO Major,Rear End,,0,0,0,0,2,0
+115.690905,-31.634616,25001635,9382540,1104772,Camborne Pwy,Camborne Pwy,S,2.06,195252,Camborne Pwy & Torbay L & Royston Link,115.690905,-31.634616,22/8/16,1940,PDO Major,Right Angle,,0,0,0,0,2,0
+115.757589,-31.894372,25093650,10362102,H036,West Coast Hwy,West Coast Hwy,L,17.55,55392,West Coast Hwy & Scarborough Beach Rd,115.757589,-31.894372,6/12/20,1710,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.95279,-31.906403,25005906,9400904,1110017,Palmerston St,Palmerston St,S,0.83,37517,Palmerston St & Whitfield St,115.95279,-31.906403,8/10/16,1615,Hospital,Right Angle,,0,0,0,0,2,0
+115.9246,-31.862227,25066521,9909472,H021,Reid Hwy,Reid Hwy,R,15.03,237288,Reid Hwy & Reid Hwy (Westbound) on to Tonkin Hwy (Southbound),115.9246,-31.862227,23/11/18,930,PDO Major,Right Angle,,0,0,0,0,2,0
+115.826501,-31.85999,25008509,9396845,H035,Wanneroo Rd,Wanneroo Rd,L,9.49,75553,Wanneroo Rd & Reid Hwy (Westbound) off to Wanneroo Rd & Wanneroo Rd on to Reid Hwy (Westbound),115.826501,-31.85999,8/9/16,1720,PDO Minor,Rear End,,0,0,0,0,2,0
+115.932168,-32.01671,25099867,10300277,H001,Albany Hwy,Albany Hwy,L,8.08,4410,Albany Hwy & Wharf St & Carden Dr,115.932168,-32.01671,12/9/20,1620,PDO Minor,Rear End,,0,0,0,0,2,0
+115.88589,-31.888536,25088362,10200653,H028,Karrinyup Morley Hwy,Morley Dr,L,12.09,55591,Karrinyup Morley Hwy & Randerson Pl,115.88589,-31.888536,28/2/20,1600,Medical,Right Angle,,0,0,0,0,2,0
+115.841317,-31.822335,25054474,9797429,1102158,Highclere Bvd,Highclere Bvd,S,1.44,76171,Highclere Bvd & Curtin Rd,115.841317,-31.822335,25/5/18,1250,Medical,Right Angle,,0,0,0,0,2,0
+115.868916,-32.013645,25108937,10151245,1260020,Welwyn Av,Welwyn Av,S,0.21,54568,Welwyn Av & Henning Cr,115.868916,-32.013645,4/12/19,825,PDO Major,Right Angle,,0,0,0,0,2,0
+116.844774,-20.733675,25107038,10170671,8140673,Karratha Tce,Karratha Tce,S,0.35,74646,Sharpe Av & Karratha Tce,116.844774,-20.733675,2/1/20,1515,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.952241,-31.999743,25103592,10120206,1140006,Wharf St,Wharf St,S,0.27,39554,Wharf St & Elshaw St & Whitlock Rd,115.952241,-31.999743,18/10/19,2000,PDO Major,Right Angle,,0,0,0,0,2,0
+115.828266,-31.896573,25016933,9483829,1250067,Main St,Main St,S,1.96,55364,Main St & Hutton St & Royal St,115.828266,-31.896573,13/1/17,2100,PDO Minor,Rear End,,0,0,0,0,2,0
+115.875977,-32.066777,25078216,10056052,H032,South St,South St,L,10.95,47048,South St & Gracechurch Cr,115.875977,-32.066777,5/7/19,1700,PDO Major,Right Angle,,0,0,0,0,2,0
+115.917819,-32.088901,25099797,10290740,1040002,Nicholson Rd,Nicholson Rd,S,8.34,43737,Nicholson Rd & Ranford Rd & Nicholson Rd & Ranford Rd,115.917819,-32.088901,21/8/20,1525,PDO Major,Rear End,,0,0,0,0,1,0
+115.913862,-32.012529,25023559,9560167,1140001,Manning Rd,Manning Rd,L,1.34,39499,Manning Rd & Wyong Rd,115.913862,-32.012529,24/4/17,820,PDO Major,Rear End,,0,0,0,0,2,0
+116.008173,-31.917555,25099420,10325696,H019,Great Eastern Hwy Bypa,Great Eastern Hwy Bypa,R,13.48,14795,Great Eastern Hwy Bypa & Stirling Cr,116.008173,-31.917555,24/9/17,1225,Hospital,Rear End,,0,1,0,0,1,0
+116.474513,-32.800413,25013182,9436672,2140029,Johnstone St,Johnstone St,S,0.75,24463,Johnstone St & Wuraming Av,116.474513,-32.800413,12/12/16,900,PDO Major,Hit Object,,0,0,0,0,1,0
+115.814579,-31.795227,25006083,9420667,H035,Wanneroo Rd,Wanneroo Rd,R,16.77,127282,Wanneroo Rd & Automotive Dr,115.814579,-31.795227,29/8/16,1550,PDO Minor,Rear End,,0,0,0,0,2,0
+115.94596,-31.991387,25068307,9913685,1140014,Kewdale Rd,Kewdale Rd,L,0.62,78531,Kewdale Rd & Collie St,115.94596,-31.991387,27/11/18,1205,Hospital,Right Angle,,0,0,0,1,1,0
+115.856727,-32.009152,25002597,9356016,H013,Canning Hwy,Canning Hwy,L,5.5,3548,Canning Hwy & Kwinana Fwy (Southbound) off to Canning Hwy & Canning Hwy to Manning Rd & PTA Controlled Bus Lane : Kwinana Fwy (Southbnd) off to Canning Hwy (Westbnd),115.856727,-32.009152,4/7/16,1935,PDO Major,Sideswipe Same Dirn,,0,0,0,0,1,0
+115.854355,-31.820966,24986603,9244873,1100168,Mirrabooka Av,Mirrabooka Av,L,3.17,90889,Mirrabooka Av & Hepburn Av,115.854355,-31.820966,27/1/16,945,PDO Major,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.740705,-31.670284,24998557,9329082,H035,Wanneroo Rd,Wanneroo Rd,L,32.89,11948,Wanneroo Rd & Hester Av,115.740705,-31.670284,18/5/16,620,Medical,Rear End,,0,0,0,0,2,0
+115.897476,-31.894774,25117609,10272634,1120003,Walter Rd West,Walter Rd West,L,1.53,37751,Walter Rd West & Wellington Rd & Old Collier Rd,115.897476,-31.894774,26/7/20,1245,PDO Major,Rear End,,0,0,0,0,3,0
+115.86216,-31.988552,25052436,9793276,1260004,South Tce,South Tce,S,1.83,54454,South Tce & Coode St,115.86216,-31.988552,15/5/18,2140,PDO Minor,Rear End,,0,0,0,0,2,0
+115.968798,-31.901419,24994861,9292475,H005,Great Eastern Hwy,Johnson St,S,11.02,14738,Great Eastern Hwy & Helena St,115.968798,-31.901419,13/4/16,1710,PDO Major,Right Angle,,0,0,0,0,2,0
+115.962764,-32.045998,25003609,9376770,1040091,Spring Rd,Spring Rd,S,0.91,43892,Thornlie Av & Spring Rd,115.962764,-32.045998,19/7/16,625,PDO Major,Right Angle,,0,0,0,0,2,0
+115.861002,-31.976615,25019967,9542422,1260003,Mill Point Rd,Mill Point Rd,S,2.11,54425,Mill Point Rd & Forrest St,115.861002,-31.976615,29/3/17,1150,PDO Major,Rear End,,0,0,0,0,2,0
+116.000211,-32.069993,24997185,9335680,H001,Albany Hwy,Albany Hwy,S,17.37,82815,Albany Hwy & Main St,116.000211,-32.069993,31/5/16,1725,PDO Major,Right Angle,,0,0,0,0,2,0
+115.882508,-31.90639,25018037,9476100,1120004,Grand Prom,Grand Prom,L,2.44,37776,Grand Prom & Walter Rd West & Grand Prom,115.882508,-31.90639,13/12/16,1510,PDO Minor,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.904816,-32.023012,25089278,10212113,H012,Leach Hwy,Leach Hwy,R,14.28,81671,Leach Hwy & Centenary Av On Ramp,115.904816,-32.023012,9/3/20,815,PDO Minor,Rear End,,0,0,0,0,2,0
+115.907002,-32.060244,24998347,9338156,1140427,Willeri Dr,Willeri Dr,L,2.45,40435,Willeri Dr & Bannister Rd,115.907002,-32.060244,30/5/16,1710,PDO Major,Rear End,,0,0,0,0,2,0
+115.873765,-31.795536,25049197,9748373,1100004,Gnangara Rd,Gnangara Rd,L,5.77,60491,Gnangara Rd & Alexander Dr,115.873765,-31.795536,6/3/18,745,PDO Major,Rear End,,0,0,0,0,2,0
+115.926341,-32.035295,25058607,9844042,1140267,Metcalfe Rd,Metcalfe Rd,S,1.23,40277,Metcalfe Rd & Lynwood Av,115.926341,-32.035295,3/8/18,1825,Medical,Right Angle,,0,0,0,0,2,0
+115.938744,-31.97916,25043882,9737294,1130022,Kew St,Kew St,S,0.75,39117,Kew St & Armitt St,115.938744,-31.97916,12/2/18,1430,PDO Minor,Hit Object,,0,0,0,0,1,0
+115.784621,-31.817605,25006881,9412121,H590,Hepburn Av on to Mitchell Fwy (Southbound),Hepburn Av on to Mitchell Fwy (Southbound),S,0.0,13905,Hepburn Av on to Mitchell Fwy (Southbound) & Mitchell Fwy (Southbound) off to Hepburn Av & Hepburn Av,115.784621,-31.817605,29/9/16,1605,PDO Minor,Rear End,,0,0,0,0,2,0
+116.023169,-31.899704,24987832,9257700,H578,Roe Hwy (Northbound) off to Clayton St,Roe Hwy (Northbound) off to Clayton St,S,0.37,4295,Roe Hwy (Northbound) off to Clayton St & Robinson Rd & Clayton St,116.023169,-31.899704,27/2/16,1315,Medical,Rear End,,0,0,0,0,4,0
+115.826052,-31.858799,25001015,9381157,H035,Wanneroo Rd,Wanneroo Rd,L,9.63,75554,Wanneroo Rd & Wanneroo Rd on to Reid Hwy (Eastbound) & Reid Hwy (Eastbound) off to Wanneroo Rd,115.826052,-31.858799,22/8/16,1115,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,1,0,0,0
+116.042709,-32.122259,25082437,10045509,H052,Brookton Hwy,Brookton Hwy,S,3.04,11026,Brookton Hwy & Mount St,116.042709,-32.122259,22/6/19,1615,PDO Major,Rear End,Involving Animal,0,0,0,0,2,0
+115.796519,-31.882423,25025997,9575241,H028,Karrinyup Morley Hwy,Karrinyup Rd,L,3.29,55775,Karrinyup Morley Hwy & North Beach Rd,115.796519,-31.882423,14/5/17,1900,PDO Major,Right Angle,,0,0,0,0,2,0
+115.717163,-31.673335,25026824,9567338,1103098,Hester Av,Hester Av,L,0.61,70579,Hester Av & Baltimore Pde,115.717163,-31.673335,25/5/17,1820,PDO Major,Rear End,,0,0,0,0,2,0
+115.924816,-31.855642,25077327,10014025,1090564,Marshall Rd,Marshall Rd,L,3.96,59376,Marshall Rd & Beechboro Rd North,115.924816,-31.855642,2/5/19,1150,PDO Major,Rear End,,0,0,0,0,2,0
+115.890868,-31.932626,25043450,9716988,1120712,Conroy St,Conroy St,S,0.22,55240,Conroy St & Central Av,115.890868,-31.932626,13/1/18,1900,PDO Major,Right Angle,,0,0,0,0,2,0
+115.828495,-31.788646,25100165,10300990,1101268,Hartman Dr,Hartman Dr,L,3.84,62640,Hartman Dr & Buckingham Dr,115.828495,-31.788646,9/9/20,1240,PDO Minor,Rear End,,0,0,0,0,2,0
+115.927308,-31.940786,25054409,9787560,H005,Great Eastern Hwy,Great Eastern Hwy,L,4.92,4427,Great Eastern Hwy & Hardey Rd & Resolution Dr,115.927308,-31.940786,8/5/18,1620,PDO Major,Rear End,,0,0,0,0,2,0
+115.550725,-33.554514,25088321,10200331,H043,Bussell Hwy,Bussell Hwy,L,26.05,76896,Bussell Hwy & Spurr St,115.550725,-33.554514,27/2/20,1656,Hospital,Right Angle,,0,0,0,0,2,0
+115.978013,-32.207977,25071073,9979618,1080596,Pingaring Ct,Pingaring Ct,S,0.0,226975,Pingaring Ct & Kardan Bvd & Kalyang Loop,115.978013,-32.207977,14/3/19,2100,PDO Major,Right Angle,,0,0,0,0,1,0
+115.853478,-32.078992,25026059,9584911,1190997,Farrington Rd,Farrington Rd,L,1.16,48669,Casserly Dr & Farrington Rd,115.853478,-32.078992,14/6/17,730,Medical,Rear End,,0,0,0,0,2,0
+115.80285,-31.893691,25035335,9632271,H564,Mitchell Fwy (Northbound) off to Cedric St,Mitchell Fwy (Northbound) off to Cedric St,S,0.61,4349,Mitchell Fwy (Northbound) off to Cedric St & Cedric St to Karrinyup Rd & Cedric St & Stirling Stn Bus Access,115.80285,-31.893691,1/9/17,1430,Medical,Rear End,,0,0,0,0,2,0
+115.818524,-31.903257,25079044,10048333,1250088,Hutton St,Hutton St,L,0.84,55660,Hutton St & Hector St West,115.818524,-31.903257,25/6/19,1800,Medical,Rear End,,0,0,0,0,2,0
+115.938151,-32.062188,25073771,9995886,1040002,Nicholson Rd,Nicholson Rd,L,4.64,43729,Nicholson Rd & Garden St & Yale Rd,115.938151,-32.062188,6/4/19,1030,PDO Major,Right Angle,,0,0,0,0,2,0
+115.888784,-31.879481,25102034,10136244,1120018,Camboon Rd,Camboon Rd,S,0.9,80529,Camboon Rd & Noranda Av,115.888784,-31.879481,12/11/19,1445,PDO Major,Rear End,,0,0,0,0,2,0
+115.857326,-31.938144,25084893,10070160,1300280,Fitzgerald St,Fitzgerald St,S,0.62,50728,Fitzgerald St & Bulwer St,115.857326,-31.938144,28/7/19,715,PDO Major,Right Angle,,0,0,0,0,2,0
+115.896287,-31.867043,25074054,9996461,H293,Malaga Dr on to Reid Hwy (Eastbound),Malaga Dr on to Reid Hwy (Eastbound),S,0.0,223565,Malaga Dr on to Reid Hwy (Eastbound) & Reid Hwy (Eastbound) off to Malaga Dr & Malaga Dr,115.896287,-31.867043,8/4/19,1330,PDO Major,Right Angle,,0,0,0,0,2,0
+115.823441,-31.942112,25109205,10186294,1280305,Salvado Rd East,Salvado Rd East,S,0.37,121161,Station St & Salvado Rd East,115.823441,-31.942112,31/1/20,1335,PDO Major,Rear End,Involving Pedestrian,0,0,0,0,1,0
+115.823137,-31.940751,25023819,9589768,1280569,Cambridge St,Cambridge St,S,2.57,50766,Station St & Cambridge St,115.823137,-31.940751,5/6/17,1610,PDO Major,Right Angle,,0,0,0,0,2,0
+115.721207,-33.125434,25089248,10202483,H057,Forrest Hwy,Forrest Hwy,L,64.74,10128,Forrest Hwy & Taranto Rd,115.721207,-33.125434,26/2/20,1530,PDO Major,Rear End,,0,0,0,0,2,0
+115.636984,-33.326161,24989231,9250672,2040004,Victoria St,Victoria St,S,0.86,65263,Victoria St & Stephen St,115.636984,-33.326161,15/1/16,1340,PDO Minor,Rear End,,0,0,0,0,2,0
+115.864434,-32.126921,24997515,9345663,H023,Armadale Rd,Armadale Rd,L,15.41,14132,Armadale Rd & Solomon Rd,115.864434,-32.126921,6/6/16,1330,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.836548,-31.883199,25080112,10040778,1250128,Nollamara Av,Nollamara Av,S,0.1,56028,Nollamara Av & Noongah St,115.836548,-31.883199,12/6/19,1615,PDO Major,Right Angle,,0,0,0,0,2,0
+115.694108,-31.644453,24999960,9360268,1100002,Marmion Av,Marmion Av,L,8.2,135911,Marmion Av & Benenden Av,115.694108,-31.644453,5/7/16,1030,PDO Major,Rear End,,0,0,0,0,2,0
+115.689251,-31.651154,25036319,9644072,1105344,Jindalee Bvd,Jindalee Bvd,S,0.73,171182,Jindalee Bvd & Navigator Wy,115.689251,-31.651154,23/9/17,925,Medical,Right Angle,,0,0,0,0,2,0
+115.799956,-31.77842,25110983,10282494,1101288,Ocean Reef Rd,Ocean Reef Rd,L,5.93,62673,Ocean Reef Rd & Backshall Pl,115.799956,-31.77842,7/8/20,805,PDO Minor,Rear End,,0,0,0,0,0,0
+115.93329,-31.937188,25064570,9915238,H005,Great Eastern Hwy,Great Eastern Hwy,L,5.59,14291,Great Eastern Hwy & Epsom Av,115.93329,-31.937188,30/11/18,1550,PDO Major,Rear End,,0,0,0,0,2,0
+115.846483,-31.947439,25005531,9430044,1240061,Sutherland St,Sutherland St,L,0.68,67677,Sutherland St & Wellington St,115.846483,-31.947439,18/10/16,1030,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.846216,-31.931933,25037588,9704062,1300287,Loftus St,Loftus St,S,1.13,50862,Bourke St & Loftus St,115.846216,-31.931933,19/12/17,940,PDO Major,Right Turn Thru,,0,0,0,0,1,0
+116.020457,-31.960513,25095669,10357119,1020004,Hawtin Rd,Hawtin Rd,S,2.62,45340,Hawtin Rd & Norwood Rd,116.020457,-31.960513,3/11/20,1130,PDO Major,Right Angle,,0,0,0,0,2,0
+116.016054,-31.940642,25024489,9562369,H018,Roe Hwy,Roe Hwy,L,34.75,4552,Roe Hwy & Kalamunda Rd,116.016054,-31.940642,19/4/17,1030,PDO Major,Rear End,,0,0,0,0,2,0
+115.852176,-32.255282,25098247,10323546,H708,Kwinana Fwy (Northbound) off to Mortimer Rd,Kwinana Fwy (Northbound) off to Mortimer Rd,S,0.35,119115,Kwinana Fwy (Northbound) off to Mortimer Rd & Mortimer Rd on to Kwinana Fwy (Northbound) & Mortimer Rd,115.852176,-32.255282,26/7/16,2009,Hospital,Hit Object,,0,0,0,0,1,0
+115.924032,-32.007984,24995752,9332991,H001,Albany Hwy,Albany Hwy,L,6.78,14264,Albany Hwy & Albany Hwy on to Leach Hwy (Westbound) & Leach Hwy(Westbound) off to Albany Hwy,115.924032,-32.007984,26/5/16,1100,PDO Major,Rear End,,0,0,0,0,2,0
+115.730425,-31.670373,24981699,10236573,H270,Mitchell Fwy (Northbound) off to Hester Av,Mitchell Fwy (Northbound) off to Hester Av,S,0.46,228503,Mitchell Fwy (Northbound) off to Hester Av & Hester Av,115.730425,-31.670373,23/5/20,740,Medical,Rear End,,0,0,0,0,2,0
+115.77968,-32.059466,25057711,9842139,1180004,Carrington St,Carrington St,S,1.39,43018,Carrington St & Clarke St,115.77968,-32.059466,3/8/18,1300,PDO Major,Right Angle,,0,0,0,0,2,0
+115.820032,-31.922791,25024846,9572795,1250061,Harborne St,Harborne St,L,1.0,55327,Harborne St & Jon Sanders Dr & Powis St & Powis St & Harborne St & Jon Sanders Dr,115.820032,-31.922791,30/4/17,945,PDO Major,Rear End,,0,0,0,0,2,0
+115.944332,-31.993407,25079585,10049092,H027,Rivervale Wattle Grove Link,Orrong Rd,L,4.82,39611,Rivervale Wattle Grove Link & Kewdale Rd,115.944332,-31.993407,1/7/19,1540,PDO Minor,Rear End,,0,0,0,0,2,0
+115.894885,-31.933806,25056617,9849342,1120716,Peninsula Rd,Peninsula Rd,S,0.52,55130,Peninsula Rd & East St,115.894885,-31.933806,4/8/18,1730,PDO Major,Rear End,Involving Pedestrian,0,0,0,0,2,0
+115.875309,-31.941038,25104346,10102410,1300276,Lord St,Lord St,S,1.15,50653,Cantle St & Turner St & Lord St,115.875309,-31.941038,16/9/19,1230,PDO Minor,Hit Pedestrian,Involving Pedestrian,0,0,0,0,1,1
+115.973635,-31.91584,25064175,9864888,H019,Great Eastern Hwy Bypa,Great Eastern Hwy Bypa,L,10.18,14745,Great Eastern Hwy Bypa & Kalamunda Rd,115.973635,-31.91584,9/9/18,1545,Medical,Rear End,,0,0,0,0,2,0
+115.80323,-32.080964,25116283,10280131,1030033,Counsel Rd,Counsel Rd,S,0.7,41617,Counsel Rd & Hargreaves Rd,115.80323,-32.080964,7/8/20,1700,Medical,Right Angle,,0,0,0,0,2,0
+115.787072,-31.725395,25084546,10097493,H035,Wanneroo Rd,Wanneroo Rd,L,25.15,13909,Wanneroo Rd & Ashley Rd,115.787072,-31.725395,2/9/19,1415,PDO Major,Right Angle,,0,0,0,0,2,0
+115.903594,-32.038773,25117823,10263444,1140427,Willeri Dr,Willeri Dr,L,0.0,39573,Riley Rd & Willeri Dr & High Rd,115.903594,-32.038773,10/7/20,930,Medical,Rear End,Involving Pedestrian,0,0,0,0,2,0
+115.914356,-32.005742,25093384,10361648,1140003,Chapman Rd,Chapman Rd,S,0.75,39516,Chapman Rd & Ashburton St,115.914356,-32.005742,2/12/20,1430,PDO Major,Rear End,,0,0,0,0,2,0
+118.631023,-20.300004,25093778,10342564,8130015,Sutherland St,Sutherland St,S,4.72,17177,Sutherland St & Keesing St,118.631023,-20.300004,24/10/20,2200,PDO Major,Hit Object,Involving Parking,0,0,0,0,1,0
+115.841343,-31.82092,24993412,9298652,1101900,Hepburn Av,Hepburn Av,L,3.39,90905,Hepburn Av & Highclere Bvd,115.841343,-31.82092,6/4/16,1615,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.909287,-31.838662,25075178,9989170,1091438,Bellefin Dr,Bellefin Dr,S,2.27,90155,Bellefin Dr & Hepburn Av,115.909287,-31.838662,28/3/19,1730,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.81047,-31.860165,25109583,10152912,1250141,Erindale Rd,Erindale Rd,L,1.85,56177,Erindale Rd & Balcatta Rd,115.81047,-31.860165,5/12/19,1515,PDO Minor,Rear End,,0,0,0,0,2,0
+115.954387,-31.927896,24997072,9353869,113Z018,Fauntleroy Rd (Federal),Fauntleroy Av (Federal),S,0.14,68628,Fauntleroy Rd (Federal) & Bungana Av (Federal) & Kleinig Rd (Federal),115.954387,-31.927896,14/7/16,1340,PDO Major,Rear End,,0,0,0,0,3,0
+115.745088,-32.513956,25099835,10300015,H002,Melville Mandurah Hwy,Mandurah Rd,L,55.29,13782,Melville Mandurah Hwy & Park Rd,115.745088,-32.513956,10/9/20,1605,PDO Major,Rear End,,0,0,0,0,2,0
+115.8516,-32.011486,25075166,9989084,H013,Canning Hwy,Canning Hwy,L,6.06,4471,Canning Hwy & Canning Beach Rd,115.8516,-32.011486,1/4/19,1230,PDO Minor,Rear End,,0,1,0,0,1,0
+115.868141,-31.958623,25097110,10321583,1240110,Adelaide Tce,Adelaide Tce,L,0.28,50512,Adelaide Tce & Hill St,115.868141,-31.958623,12/2/16,1710,Medical,Right Angle,,0,0,0,0,2,0
+115.854355,-31.820966,25035950,9633677,1100168,Mirrabooka Av,Mirrabooka Av,L,3.17,90889,Mirrabooka Av & Hepburn Av,115.854355,-31.820966,29/8/17,850,PDO Major,Rear End,,0,1,0,0,1,0
+115.732665,-31.670602,25073021,9974239,H271,Hester Av on to Mitchell Fwy (Southbound),Hester Av on to Mitchell Fwy (Southbound),S,0.0,228506,Hester Av on to Mitchell Fwy (Southbound) & Hester Av & Nowergup Rail Depot Access,115.732665,-31.670602,5/3/19,1130,Medical,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+116.047809,-31.902444,25019391,9541294,H005,Great Eastern Hwy,Great Eastern Hwy,L,19.47,4432,Great Eastern Hwy & Scott St,116.047809,-31.902444,4/4/17,830,PDO Major,Rear End,,0,0,0,0,1,0
+115.850824,-31.95513,25104650,10103075,1240103,Mounts Bay Rd,Mounts Bay Rd,L,0.91,50606,Spring St & Mounts Bay Rd & Spring St,115.850824,-31.95513,19/9/19,1845,Hospital,Rear End,,0,0,0,0,2,0
+115.918944,-31.971679,25039670,9670444,H027,Rivervale Wattle Grove Link,Orrong Rd,L,1.39,38822,Rivervale Wattle Grove Link & Archer St,115.918944,-31.971679,2/11/17,1425,PDO Major,Rear End,,0,0,0,0,2,0
+115.85523,-31.848658,24993314,9279187,1100168,Mirrabooka Av,Mirrabooka Av,L,0.0,56042,Mirrabooka Av & Beach Rd & Beach Rd & Mirrabooka Av,115.85523,-31.848658,12/3/16,1900,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.793066,-31.901947,25052827,9813602,1250111,Ewen St,Ewen St,S,0.28,55872,Ewen St & Birchwood Av,115.793066,-31.901947,17/6/18,1410,PDO Major,Right Angle,,0,0,0,0,2,0
+115.799034,-32.060229,25015093,9499705,1180064,Peel Rd,Peel Rd,S,1.02,43357,Peel Rd & Ladner St,115.799034,-32.060229,17/2/17,1630,PDO Major,Right Angle,,0,0,0,0,2,0
+115.858103,-31.951231,25060280,9875973,1240038,William St,William St,S,0.75,50561,William St & Wellington St,115.858103,-31.951231,27/10/18,2300,PDO Minor,Hit Pedestrian,Involving Pedestrian,0,0,0,0,1,1
+115.782482,-31.817182,25016226,9501855,H589,Mitchell Fwy (Northbound) off to Hepburn Av,Mitchell Fwy (Northbound) off to Hepburn Av,S,0.37,13892,Mitchell Fwy (Northbound) off to Hepburn Av & Hepburn Av on to Mitchell Fwy (Northbound) & Hepburn Av,115.782482,-31.817182,18/2/17,1530,PDO Major,Rear End,,0,0,0,0,1,0
+115.754931,-32.042849,25100762,10302266,H013,Canning Hwy,Canning Hwy,S,16.06,4587,Canning Hwy & Queen Victoria St,115.754931,-32.042849,4/10/20,1850,PDO Major,Right Angle,,0,0,0,0,2,0
+115.787073,-31.836931,25095369,10356477,1310003,Warwick Rd,Warwick Rd,L,3.46,60472,Warwick Rd & Davallia Rd,115.787073,-31.836931,12/8/16,1045,Medical,Rear End,,0,0,0,0,2,0
+115.91998,-31.984301,25055142,9808774,1290117,Oats St,Oats St,S,0.89,50992,Oats St & Bishopsgate St,115.91998,-31.984301,8/6/18,1215,PDO Minor,Rear End,,0,0,0,0,2,0
+115.756977,-32.063566,25064990,9936929,1180005,Hampton Rd,Hampton Rd,S,1.73,43037,Hampton Rd & South St,115.756977,-32.063566,6/1/19,1215,PDO Minor,Rear End,,0,0,0,0,1,0
+115.849557,-31.919595,25107786,10192423,H035,Wanneroo Rd,Charles St,S,2.56,50683,Wanneroo Rd & Selkirk St,115.849557,-31.919595,14/2/20,1241,PDO Minor,Rear End,,0,0,0,0,2,0
+115.741913,-31.755739,25026982,9557752,1310002,Marmion Av,Marmion Av,L,1.92,60451,Marmion Av & Hodges Dr,115.741913,-31.755739,26/5/17,1550,PDO Major,Rear End,,0,0,0,0,3,0
+115.976777,-32.361717,25096469,10348585,1080007,Karnup Rd,Karnup Rd,S,1.46,54065,Karnup Rd & Richardson St,115.976777,-32.361717,21/10/20,1450,Medical,Head On,,0,1,0,0,1,0
+116.680196,-31.656833,25051135,9810200,4212010,Burgoyne St,Burgoyne St,S,0.53,71683,Burgoyne St & Byfield St,116.680196,-31.656833,13/7/18,1801,PDO Minor,Right Turn Thru,,1,0,0,0,1,0
+116.01203,-31.951721,25088901,10201384,H572,Roe Hwy (Northbound) off to Maida Vale Rd,Roe Hwy (Northbound) off to Maida Vale Rd,S,0.44,4550,Roe Hwy (Northbound) off to Maida Vale Rd & Maida Vale Rd,116.01203,-31.951721,25/2/20,1550,PDO Minor,,,0,0,0,0,2,0
+115.765605,-31.733928,24999277,9349504,1311665,Joondalup Dr,Joondalup Dr,L,5.26,63199,Joondalup Dr & Moore Dr & Grand Bvd,115.765605,-31.733928,6/8/16,800,Medical,Right Turn Thru,,1,0,0,0,1,0
+115.893707,-31.861565,25105271,10113854,1090662,Malaga Dr,Malaga Dr,L,0.72,59317,Malaga Dr & Victoria Rd,115.893707,-31.861565,5/10/19,1100,PDO Major,Rear End,,0,1,0,0,1,0
+115.715873,-33.317019,25077273,10003613,2080202,Eaton Dr,Eaton Dr,L,0.88,77628,Hamilton Rd & Eaton Dr & Council Dr,115.715873,-33.317019,21/4/19,10,PDO Minor,Hit Object,,0,0,0,1,0,0
+115.838301,-32.032917,25070613,9959233,1190002,Riseley St,Riseley St,L,1.69,47017,Riseley St & Almondbury Rd & Coomoora Rd,115.838301,-32.032917,16/2/19,1040,PDO Major,Right Angle,,0,0,0,0,2,0
+115.762926,-32.294527,25002074,9364568,H002,Melville Mandurah Hwy,Ennis Av,L,29.6,13837,Melville Mandurah Hwy & Grange Dr & Elanora Dr,115.762926,-32.294527,5/7/16,1835,PDO Minor,Rear End,,0,0,0,0,1,0
+115.984008,-32.147097,25017635,9495573,H023,Armadale Rd,Armadale Rd,L,3.58,36346,Armadale Rd & Eighth Rd,115.984008,-32.147097,7/2/17,1735,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.846803,-32.046113,25065435,9917176,H012,Leach Hwy,Leach Hwy,L,7.9,4041,Leach Hwy & Moolyeen Rd,115.846803,-32.046113,30/11/18,1130,PDO Minor,Rear End,,0,0,0,1,1,0
+115.856495,-31.954689,25107457,10182259,1240038,William St,William St,S,1.16,50503,William St & St Georges Tce,115.856495,-31.954689,24/1/20,2010,PDO Major,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.820196,-32.091213,25108586,10184639,1030358,Gwilliam Dr,Gwilliam Dr,S,0.0,42141,Gwilliam Dr & Progress Dr,115.820196,-32.091213,30/1/20,1300,PDO Major,Rear End,,0,0,0,0,2,0
+115.854591,-31.835907,25105875,10165641,1100168,Mirrabooka Av,Mirrabooka Av,L,1.43,60861,Mirrabooka Av & Marangaroo Dr,115.854591,-31.835907,27/12/19,1515,PDO Major,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.782739,-32.115274,25105623,10124598,1030498,Rockingham Rd,Rockingham Rd,S,5.26,82775,Rockingham Rd & Gerovich Wy,115.782739,-32.115274,12/10/19,1510,PDO Minor,,,0,0,0,0,1,0
+115.848681,-32.06583,25074681,9998345,H032,South St,South St,L,8.37,14092,South St & South St on to Kwinana Fwy (Northbound) & Kwinana Fwy (Northbound) off to South St & Murdoch Station Bus Access,115.848681,-32.06583,10/4/19,1440,Medical,Rear End,,0,0,0,0,2,0
+116.015365,-32.053199,25084155,10078878,H017,Tonkin Hwy,Tonkin Hwy,L,61.42,14840,Tonkin Hwy & Gosnells Rd East,116.015365,-32.053199,12/9/19,1400,Medical,Right Angle,,0,0,0,0,1,0
+115.949156,-31.858302,25020360,9553811,1091948,Fountain Tce,Fountain Tce,S,0.07,81376,Fountain Tce & Rainbow Cr,115.949156,-31.858302,5/5/17,1555,Medical,Right Angle,,0,0,0,0,2,0
+115.909619,-32.017986,25061340,9868557,1140008,Bungaree Rd,Bungaree Rd,S,0.53,39563,Bungaree Rd & Armstrong Rd,115.909619,-32.017986,17/9/18,720,Medical,Right Angle,,0,0,0,0,2,0
+115.804168,-31.940798,25045992,9779473,1280306,Selby St,Selby St,L,0.78,50748,Selby St & Cambridge St,115.804168,-31.940798,27/4/18,1255,PDO Major,Right Angle,,0,0,0,0,2,0
+115.848483,-32.078732,25095580,10346677,H622,Farrington Rd on to Kwinana Fwy (Northbound),Farrington Rd on to Kwinana Fwy (Northbound),S,0.0,14096,Farrington Rd on to Kwinana Fwy (Northbound) & Farrington Rd,115.848483,-32.078732,13/11/20,2200,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.857658,-32.061018,24994265,9291327,1190598,Benningfield Rd,Benningfield Rd,S,0.56,48169,Henry Bull Dr & Benningfield Rd,115.857658,-32.061018,7/4/16,1655,Medical,Rear End,,0,0,0,0,2,0
+115.828381,-31.873732,25066908,9920346,1250067,Main St,Main St,S,4.49,55376,Main St & Amelia St,115.828381,-31.873732,7/12/18,1630,PDO Minor,Rear End,,0,0,0,0,2,0
+115.864782,-31.977239,25046920,9753455,1260003,Mill Point Rd,Mill Point Rd,S,1.75,54424,Mill Point Rd & Coode St,115.864782,-31.977239,8/3/18,1510,PDO Minor,Rear End,,0,0,0,0,2,0
+115.802612,-31.979307,25113503,9269397,H014,Stirling Hwy,Stirling Hwy,S,6.03,13992,Stirling Hwy & Dalkeith Rd,115.802612,-31.979307,10/3/16,1721,PDO Major,Right Angle,,0,0,0,0,0,0
+115.875178,-31.983362,25050221,9768899,H013,Canning Hwy,Canning Hwy,S,2.12,4463,Canning Hwy & Douglas Av,115.875178,-31.983362,14/4/18,1130,PDO Major,Rear End,,0,0,0,0,2,0
+115.747996,-32.49067,24990770,9303136,H002,Melville Mandurah Hwy,Mandurah Rd,L,52.49,13794,Melville Mandurah Hwy & Ronsard Dr,115.747996,-32.49067,4/4/16,620,PDO Major,Right Angle,,0,0,0,0,2,0
+116.014932,-32.055535,25097684,10322583,H017,Tonkin Hwy,Tonkin Hwy,L,61.69,4549,Tonkin Hwy & Gosnells Rd West,116.014932,-32.055535,20/5/16,1930,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.859748,-31.955757,25070944,9960118,1240042,Barrack St,Barrack St,S,0.39,50500,Barrack St & St Georges Tce,115.859748,-31.955757,12/2/19,1340,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.864136,-31.81124,25059659,9836903,1103644,Abbotswood Dr,Abbotswood Dr,S,0.33,126997,Abbotswood Dr & Hersey Pwy,115.864136,-31.81124,26/7/18,515,Medical,Right Angle,,0,0,0,0,1,0
+117.8658,-35.003748,25099190,10289334,H401,Chester Pass Rty,Chester Pass Rty,S,0.1,148117,Chester Pass Rty & Albany Hwy,117.8658,-35.003748,23/8/20,1050,PDO Major,Sideswipe Same Dirn,,0,0,1,0,1,0
+115.88673,-32.012407,25024889,9582821,1260001,Manning Rd,Manning Rd,L,1.16,54370,Manning Rd & Kent St & Waterford Av & Kent St,115.88673,-32.012407,15/6/17,1155,PDO Major,Rear End,,0,0,0,0,2,0
+116.013491,-31.782441,25041232,9692448,1090502,West Swan Rd,West Swan Rd,S,14.18,59300,West Swan Rd & Millhouse Rd,116.013491,-31.782441,27/11/17,1245,PDO Major,Rear End,,0,1,0,0,1,0
+115.912938,-31.885831,25098113,10296566,1120024,Emberson Rd,Emberson Rd,S,0.23,38023,Emberson Rd & Paine Rd,115.912938,-31.885831,2/9/20,1840,PDO Major,Right Angle,,0,0,0,0,2,0
+115.98671,-31.863683,25042699,9725703,H021,Reid Hwy,Reid Hwy,L,21.23,77668,Reid Hwy & West Swan Rd,115.98671,-31.863683,26/1/18,1500,PDO Minor,Rear End,,0,0,0,0,2,0
+115.764843,-31.754835,25080524,10060879,H659,Hodges Dr on to Mitchell Fwy (Southbound),Hodges Dr on to Mitchell Fwy (Southbound),S,0.0,82410,Hodges Dr on to Mitchell Fwy (Southbound) & Mitchell Fwy (Southbound) off to Hodges Dr & Hodges Dr,115.764843,-31.754835,10/7/19,735,PDO Minor,Rear End,,0,0,0,0,1,0
+116.017186,-31.892471,25025720,9574724,H005,Great Eastern Hwy,Great Eastern Hwy,S,16.32,14842,Great Eastern Hwy & Lefroy Av,116.017186,-31.892471,24/4/17,815,PDO Major,Rear End,,0,0,0,0,2,0
+115.822288,-32.039892,25098666,10297516,1190007,Marmion St,Marmion St,L,4.58,47109,Marmion St & Norma Rd,115.822288,-32.039892,5/9/20,1530,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.917047,-31.967325,25079286,10039463,1130017,Roberts Rd,Roberts Rd,S,0.18,39042,Roberts Rd & Surrey Rd,115.917047,-31.967325,17/6/19,1655,Medical,Right Turn Thru,,0,0,0,0,2,0
+115.890935,-31.980767,25033157,9646699,1290251,Berwick St,Berwick St,S,1.07,51023,McMillan St & Berwick St & George St,115.890935,-31.980767,20/9/17,1820,PDO Major,Right Turn Thru,,0,0,0,0,2,0
+115.765317,-32.040963,25062782,9871385,H013,Canning Hwy,Canning Hwy,S,15.06,13827,Canning Hwy & May St,115.765317,-32.040963,12/9/18,1430,PDO Major,Right Angle,,0,0,0,0,2,0
+116.008584,-32.136195,25093434,10373557,1010869,Champion Dr,Champion Dr,S,3.36,37303,Stott Cl & Champion Dr,116.008584,-32.136195,30/11/20,1655,PDO Major,Rear End,,0,0,0,0,2,0
+115.651664,-33.35938,25059668,9836997,2040217,Brittain Rd,Brittain Rd,S,0.88,65749,Brittain Rd & Underwood St,115.651664,-33.35938,26/7/18,1510,PDO Major,Rear End,,0,0,0,0,2,0
+115.821267,-31.945575,25000840,9362002,1270005,Roberts Rd,Roberts Rd,S,0.22,118180,Roberts Rd & Centro Av,115.821267,-31.945575,4/7/16,1930,PDO Major,Rear End,,0,0,0,0,2,0
+115.918219,-31.924222,25035513,9652070,H026,Guildford Rd,Guildford Rd,S,5.25,4579,Guildford Rd & King William St,115.918219,-31.924222,20/9/17,1630,PDO Major,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.856353,-32.065825,25107522,10191451,H032,South St,South St,L,9.08,47054,South St & Calley Dr & Bull Creek Shopping Ctr Access,115.856353,-32.065825,11/2/20,1645,PDO Major,Rear End,,0,0,0,0,3,0
+115.819409,-31.911241,25075971,10021744,1250068,Frobisher St,Frobisher St,S,0.31,55384,Frobisher St & Howe St,115.819409,-31.911241,15/5/19,2130,PDO Major,Right Angle,,0,0,0,0,2,0
+115.879451,-31.935826,25104690,10112601,1250047,Railway Pde,Railway Pde,S,0.25,55177,Railway Pde & Almondbury Rd,115.879451,-31.935826,30/9/19,1830,PDO Major,Right Angle,,0,0,0,0,2,0
+115.855053,-31.957918,25001145,9362572,H014,Stirling Hwy,Riverside Dr West,L,0.0,155434,Stirling Hwy & Stirling Hwy on to Mitchell Fwy (Northbound) & Mitchell Fwy (Southbound) off to Stirling Hwy & William St & Convention Ctr Se Car Park Exit & PTA Controlled Bus Lane : H016 to Perth Busport & PTA Controlled Bus Lane : Perth Busport to Kwinana Fwy Bus Lane (Southbound),115.855053,-31.957918,9/7/16,1830,PDO Minor,Rear End,,0,0,0,0,2,0
+115.901608,-31.907114,24997677,9327320,1120006,Broun Av,Broun Av,L,0.52,37810,Broun Av & Drake St,115.901608,-31.907114,30/5/16,905,Medical,Rear End,,0,0,0,0,3,0
+115.917819,-32.088901,25021381,9535725,1040002,Nicholson Rd,Nicholson Rd,S,8.34,43737,Nicholson Rd & Ranford Rd & Nicholson Rd & Ranford Rd,115.917819,-32.088901,3/3/17,1500,PDO Major,Rear End,,0,0,0,0,2,0
+116.016054,-31.940642,25006547,9411191,H018,Roe Hwy,Roe Hwy,L,34.75,4552,Roe Hwy & Kalamunda Rd,116.016054,-31.940642,23/10/16,2020,PDO Major,Rear End,,0,0,0,0,2,0
+115.877625,-31.850776,25052206,9802452,1090697,Beach Rd,Beach Rd,L,0.0,59572,Beach Rd & Alexander Dr & Beach Rd & Beach Rd & Alexander Dr,115.877625,-31.850776,1/6/18,1610,PDO Minor,Rear End,,0,0,0,0,1,0
+115.924102,-31.894758,24997175,9335605,1120005,Beechboro Rd North,Beechboro Rd North,S,0.39,37782,Beechboro Rd North & Broun Av & Walter Rd East,115.924102,-31.894758,28/5/16,1820,PDO Major,Rear End,,0,0,0,0,2,0
+116.002806,-32.146951,25068766,9904442,H023,Armadale Rd,Armadale Rd,L,1.81,36784,Armadale Rd & Tait St,116.002806,-32.146951,23/11/18,1225,PDO Minor,Hit Object,,0,0,0,0,1,0
+116.002325,-32.072038,24994457,9281344,H001,Albany Hwy,Albany Hwy,S,17.66,4415,Albany Hwy & Dorothy St,116.002325,-32.072038,16/3/16,815,PDO Major,Sideswipe Same Dirn,Involving Overtaking,0,0,0,0,2,0
+115.849354,-31.909118,25085728,10062529,1250074,Flinders St,Flinders St,S,0.15,55498,Flinders St & Nangar St,115.849354,-31.909118,18/7/19,1820,PDO Major,Right Angle,,0,0,0,0,2,0
+115.896287,-31.867043,24997559,9346034,H293,Malaga Dr on to Reid Hwy (Eastbound),Malaga Dr on to Reid Hwy (Eastbound),S,0.0,223565,Malaga Dr on to Reid Hwy (Eastbound) & Reid Hwy (Eastbound) off to Malaga Dr & Malaga Dr,115.896287,-31.867043,14/6/16,1400,PDO Major,Rear End,,0,0,0,0,2,0
+115.963152,-32.021092,25042120,9733636,1040021,Brixton St,Brixton St,S,0.44,43945,Brixton St & Dulwich St,115.963152,-32.021092,14/2/18,1510,PDO Minor,Rear End,,0,0,0,0,2,0
+115.785393,-32.209681,25064921,9925901,H002,Melville Mandurah Hwy,Rockingham Rd,L,18.8,10142,Melville Mandurah Hwy & Anketell Rd,115.785393,-32.209681,12/12/18,1720,PDO Major,Rear End,,0,0,0,0,2,0
+115.833931,-32.020296,25022178,9526440,H013,Canning Hwy,Canning Hwy,L,7.98,4472,Canning Hwy & Riseley St,115.833931,-32.020296,15/3/17,1100,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.847328,-31.913778,25007895,9395604,H035,Wanneroo Rd,Charles St,L,3.24,50690,Wanneroo Rd & Walcott St & Green St,115.847328,-31.913778,9/9/16,1330,Hospital,Right Turn Thru,,0,0,0,0,2,0
+115.997043,-32.008137,25029182,9619481,H017,Tonkin Hwy,Tonkin Hwy,L,56.02,4547,Tonkin Hwy & Rivervale Wattle Grove Link & Welshpool Rd East,115.997043,-32.008137,8/8/17,810,PDO Minor,Rear End,,0,0,0,0,2,0
+118.26478,-32.499222,25112586,9269757,H052,Brookton Hwy,Nicholls St,S,252.03,6063,Brookton Hwy & Narrogin Kondinin & Kondinin Lake Rd,118.26478,-32.499222,3/3/16,1402,PDO Minor,Hit Object,,0,0,0,0,0,0
+115.846382,-31.904265,25079877,10049701,1250454,Lockwood St,Lockwood St,S,0.31,55690,Lockwood St & Hector St,115.846382,-31.904265,25/6/19,1040,PDO Major,Right Angle,,0,0,0,0,2,0
+115.732542,-32.535346,24982511,10144721,2120703,Pinjarra Rd,Pinjarra Rd,S,1.69,34707,Anstruther Rd & Pinjarra Rd,115.732542,-32.535346,13/12/19,2050,PDO Major,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.948318,-31.927996,25064826,9915657,H005,Great Eastern Hwy,Great Eastern Hwy,S,7.35,14709,Great Eastern Hwy & Ben St,115.948318,-31.927996,29/11/18,500,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.977836,-31.780658,25092444,10349566,1090838,Millhouse Rd,Millhouse Rd,L,4.13,132910,Millhouse Rd & Henley Brook Av & The Promenade,115.977836,-31.780658,19/11/20,1520,PDO Major,Rear End,,0,0,0,0,1,0
+115.882306,-31.996017,24983823,10286248,1260006,Hayman Rd,Hayman Rd,L,0.82,54465,Hayman Rd & Thelma St,115.882306,-31.996017,15/8/20,1630,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.857854,-31.794007,24991728,9305545,1100004,Gnangara Rd,Gnangara Rd,L,4.21,185190,Gnangara Rd & Sydney Rd & Ocean Reef Rd,115.857854,-31.794007,30/3/16,650,PDO Minor,Sideswipe Same Dirn,,0,0,0,0,2,0
+115.782046,-31.771769,25013290,9455546,1311665,Joondalup Dr,Joondalup Dr,L,0.37,62542,Wedgewood Dr & Joondalup Dr,115.782046,-31.771769,22/11/16,1730,PDO Major,Rear End,,0,0,0,1,1,0
+115.825794,-31.832105,25002509,9384177,1101403,Marangaroo Dr,Marangaroo Dr,L,0.47,62359,Giralt Rd & Marangaroo Dr,115.825794,-31.832105,25/7/16,1930,PDO Minor,Right Angle,,0,0,0,0,2,0
+115.916167,-31.899341,25114566,10246850,1120082,Broadway,Broadway,S,0.12,38295,Broadway & Holmwood Wy,115.916167,-31.899341,8/6/20,1355,Medical,Right Angle,,0,0,0,0,2,0
+115.882508,-31.90639,24989833,9252302,1120004,Grand Prom,Grand Prom,L,2.44,37776,Grand Prom & Walter Rd West & Grand Prom,115.882508,-31.90639,19/2/16,1055,Medical,Rear End,,0,0,0,0,2,0
+115.828493,-31.945403,25109648,10163414,1270005,Roberts Rd,Roberts Rd,S,0.93,58639,Roberts Rd & Townshend Rd & Haydn Bunton Dr,115.828493,-31.945403,26/12/19,2205,PDO Major,Right Angle,,0,0,0,0,2,0
+115.95085,-32.10048,25117645,10272958,1040181,Balfour St,Balfour St,S,1.43,44460,Balfour St & Barrett St,115.95085,-32.10048,22/7/20,1415,PDO Major,Rear End,,0,0,0,0,1,0
+116.226129,-31.782442,24994312,9300762,M026,Toodyay,Toodyay Rd,S,0.56,11626,Toodyay & Lilydale Rd,116.226129,-31.782442,23/3/16,830,PDO Minor,Rear End,,0,0,0,0,2,0
+115.841941,-31.943342,25044309,9718740,1240007,Thomas St,Thomas St,L,3.28,50705,Thomas St & Loftus St & Railway St & Railway Pde & Loftus St,115.841941,-31.943342,22/1/18,1750,Medical,Rear End,,0,1,0,0,1,0
+115.842203,-32.065309,25007416,9403637,H032,South St,South St,L,7.76,47055,South St & Murdoch Dr,115.842203,-32.065309,26/10/16,1030,Medical,Rear End,,0,0,0,0,2,0
+115.925863,-32.092926,25118471,10265077,1040026,Ranford Rd,Ranford Rd,L,0.91,43988,Ranford Rd & Campbell Rd,115.925863,-32.092926,11/7/20,1630,PDO Major,Rear End,,0,0,0,0,2,0
+116.11556,-31.912397,25075082,10021047,1062502,Thomas Rd,Thomas Rd,S,1.25,49528,Bailey Rd & Thomas Rd,116.11556,-31.912397,18/5/19,1531,PDO Major,Right Angle,,0,0,0,0,2,0
+115.769963,-31.741756,25104200,10121649,1313303,Grand Bvd,Grand Bvd,L,1.24,76205,Reid Prom & Grand Bvd,115.769963,-31.741756,18/10/19,1055,PDO Major,Right Angle,,0,0,0,0,2,0
+115.896186,-31.982441,25068226,9903692,1290089,State St,State St,S,0.22,51686,State St & Gloucester St,115.896186,-31.982441,16/11/18,1700,PDO Minor,Rear End,,0,0,0,0,1,0
+115.977654,-32.089217,25065502,9927157,1040011,Southern River Rd,Southern River Rd,S,1.48,43856,Southern River Rd & Chamberlain St,115.977654,-32.089217,17/12/18,1655,PDO Major,Rear End,,0,0,0,0,2,0
+115.644876,-33.364221,25083267,10076772,H409,Robertson Dr Rty,Robertson Dr Rty,S,0.11,148355,Robertson Dr Rty & Bussell Hwy,115.644876,-33.364221,7/8/19,1430,PDO Major,Rear End,,0,0,0,0,2,0
+115.725395,-33.250317,25111907,10163689,2110535,Old Coast Rd,Old Coast Rd,S,2.12,76361,Marine Dr & Old Coast Rd,115.725395,-33.250317,24/12/19,1814,PDO Major,Right Turn Thru,,0,0,0,0,0,0
+115.869949,-31.895615,25106954,10156836,1250059,Alexander Dr,Alexander Dr,L,3.53,55303,Alexander Dr & Grand Prom,115.869949,-31.895615,13/12/19,1400,PDO Minor,Rear End,Involving Overtaking,0,0,0,0,2,0
+115.992693,-31.76405,25117838,10263566,1091294,Bordeaux L,Bordeaux L,S,0.65,164509,Bordeaux L & Farnborough Pwy,115.992693,-31.76405,11/7/20,1725,Medical,Right Angle,,0,0,0,0,2,0
